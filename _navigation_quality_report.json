@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-05T04:47:35.960827Z",
+  "summary": {
+    "total_pages_with_permalink": 222,
+    "visible_pages": 171,
+    "hidden_pages": 51,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1304,
+    "inline_internal_target_page_count": 171,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 171,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 7.63,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 171,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "AI_Doom_and_E_87399b",
+        "title": "Could Advanced AI Permanently Escape Human Control?",
+        "permalink": "/ai-doom-and-existential-risk-from/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "title": "Loss of Control",
+        "permalink": "/loss-of-control/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15",
+        "title": "Tool Access",
+        "permalink": "/tool-access/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15_ai_agent_pers_06be61",
+        "title": "Persistence Paths",
+        "permalink": "/persistence-paths/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15_combined_ai_p_5bf6ca",
+        "title": "Permission Stacks",
+        "permalink": "/permission-stacks/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15_least_privile_4bbb53",
+        "title": "Access Controls",
+        "permalink": "/access-controls/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068",
+        "title": "Shutdown Risk",
+        "permalink": "/shutdown-risk/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_corrigible_ai_6798d1",
+        "title": "Corrigibility",
+        "permalink": "/corrigibility/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_instrumental_04409a",
+        "title": "Instrumental Survival",
+        "permalink": "/instrumental-survival/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_shutdown_inte_8d459f",
+        "title": "Shutdown Tests",
+        "permalink": "/shutdown-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "title": "Hidden Goals",
+        "permalink": "/hidden-goals/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_alignment_fak_f42d9f",
+        "title": "Alignment Faking",
+        "permalink": "/alignment-faking-616889/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_evaluation_aw_844851",
+        "title": "Test Awareness",
+        "permalink": "/test-awareness/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_scheming_stre_6417d6",
+        "title": "Stress Tests",
+        "permalink": "/stress-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "title": "Long Autonomy",
+        "permalink": "/long-autonomy/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_ai_error_buil_e2e1d5",
+        "title": "Error Buildup",
+        "permalink": "/error-buildup/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_ai_task_durat_257f65",
+        "title": "Task Durations",
+        "permalink": "/task-durations/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_human_defense_eb311d",
+        "title": "Human Defenders",
+        "permalink": "/human-defenders/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "title": "AI Race",
+        "permalink": "/ai-race/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624",
+        "title": "Safety Thresholds",
+        "permalink": "/safety-thresholds/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_ai_lab_self_a_9d31d2",
+        "title": "Self Assessment",
+        "permalink": "/self-assessment/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_anthropic_pol_47b966",
+        "title": "Anthropic Case",
+        "permalink": "/anthropic-case/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_shared_ai_thr_4a418a",
+        "title": "Shared Standards",
+        "permalink": "/shared-standards/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26",
+        "title": "First Mover Race",
+        "permalink": "/first-mover-race/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_common_ai_saf_9d8823",
+        "title": "Common Rules",
+        "permalink": "/common-rules/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_compounding_a_01c585",
+        "title": "Compounding Leads",
+        "permalink": "/compounding-leads/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_staged_ai_rel_5e0309",
+        "title": "Staged Releases",
+        "permalink": "/staged-releases/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c",
+        "title": "Open Weights",
+        "permalink": "/open-weights/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c_frontier_weig_fee812",
+        "title": "Release Thresholds",
+        "permalink": "/release-thresholds/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c_open_weight_u_2cdd20",
+        "title": "Unfixed Copies",
+        "permalink": "/unfixed-copies/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c_tamper_resist_0ef781",
+        "title": "Tamper Resistance",
+        "permalink": "/tamper-resistance/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f",
+        "title": "State Rivalry",
+        "permalink": "/state-rivalry/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_ai_first_move_d1c6e8",
+        "title": "First Mover Myth",
+        "permalink": "/first-mover-myth/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_international_e80cef",
+        "title": "Shared Testing",
+        "permalink": "/shared-testing/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_secret_ai_cap_9af7c6",
+        "title": "Secrecy Race",
+        "permalink": "/secrecy-race/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "title": "Scheming Tests",
+        "permalink": "/scheming-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd",
+        "title": "Sabotage Reliability",
+        "permalink": "/sabotage-reliability/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_layered_monit_46b300",
+        "title": "Layered Monitoring",
+        "permalink": "/layered-monitoring/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_long_task_sab_ded582",
+        "title": "Long Task Limits",
+        "permalink": "/long-task-limits/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+        "title": "Data Sabotage",
+        "permalink": "/data-sabotage/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab",
+        "title": "Performative Scheming",
+        "permalink": "/performative-scheming/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_hidden_goals_358192",
+        "title": "Goal Persistence",
+        "permalink": "/goal-persistence/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_interpretabil_8825d7",
+        "title": "Interpretability",
+        "permalink": "/interpretability/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_sycophancy_mi_ab8a1f",
+        "title": "Sycophancy",
+        "permalink": "/sycophancy/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+        "title": "Persistent Lying",
+        "permalink": "/persistent-lying/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80_post_action_d_8c4a98",
+        "title": "Doubling Down",
+        "permalink": "/doubling-down/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80_scheming_test_1cb380",
+        "title": "Limits of Tests",
+        "permalink": "/limits-of-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80_trusting_ai_s_1eeab0",
+        "title": "Trusting Reports",
+        "permalink": "/trusting-reports/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d",
+        "title": "Toy Tests",
+        "permalink": "/toy-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_goal_prompts_5bfcaa",
+        "title": "Goal Prompts",
+        "permalink": "/goal-prompts/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_realistic_dep_2c2e98",
+        "title": "Realistic Tests",
+        "permalink": "/realistic-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_scheming_capa_0bd2ad",
+        "title": "Capability Gap",
+        "permalink": "/capability-gap/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "title": "Catastrophic Misuse",
+        "permalink": "/catastrophic-misuse/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0",
+        "title": "Bio Uplift",
+        "permalink": "/bio-uplift/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_novice_biolog_7d8aae",
+        "title": "Biology Uplift",
+        "permalink": "/biology-uplift/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_pandemic_misu_a8eac2",
+        "title": "Remaining Barriers",
+        "permalink": "/remaining-barriers/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_wet_lab_uplif_b0a99d",
+        "title": "Wet Lab Gap",
+        "permalink": "/wet-lab-gap/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a",
+        "title": "Nuclear Crises",
+        "permalink": "/nuclear-crises/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_nuclear_cy_452f16",
+        "title": "Cyber Vulnerability",
+        "permalink": "/cyber-vulnerability/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_nuclear_de_45c45c",
+        "title": "Rushed Decisions",
+        "permalink": "/rushed-decisions/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_war_simula_d6ba87",
+        "title": "War Simulations",
+        "permalink": "/war-simulations/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9",
+        "title": "Automated Labs",
+        "permalink": "/automated-labs/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9_ai_biology_fa_fa373a",
+        "title": "Faster Iteration",
+        "permalink": "/faster-iteration/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9_cloud_lab_bio_08c436",
+        "title": "Cloud Lab Access",
+        "permalink": "/cloud-lab-access/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9_self_driving_7ae30c",
+        "title": "Current Limits",
+        "permalink": "/current-limits/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c",
+        "title": "Cyber Enablers",
+        "permalink": "/cyber-enablers/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_ai_cyber_offe_b224f5",
+        "title": "Offence vs Defence",
+        "permalink": "/offence-vs-defence/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_cyber_theft_b_a73d24",
+        "title": "Research Theft",
+        "permalink": "/research-theft/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_cyberattacks_411af0",
+        "title": "Defence Failure",
+        "permalink": "/defence-failure/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "title": "Dangerous Autonomy",
+        "permalink": "/dangerous-autonomy/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078",
+        "title": "Task Horizons",
+        "permalink": "/task-horizons/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_human_time_vs_5c690d",
+        "title": "Human Time",
+        "permalink": "/human-time/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_long_agent_te_35ad13",
+        "title": "Long Tests",
+        "permalink": "/long-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_software_task_ca2e88",
+        "title": "Software Bias",
+        "permalink": "/software-bias/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+        "title": "Human Oversight",
+        "permalink": "/human-oversight/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09_ai_approval_r_5c58e2",
+        "title": "Rubber Stamps",
+        "permalink": "/rubber-stamps/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09_mandatory_ai_bab259",
+        "title": "Safety Delays",
+        "permalink": "/safety-delays/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09_reversible_ai_0754c1",
+        "title": "Reversible Actions",
+        "permalink": "/reversible-actions/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b",
+        "title": "Memory Attacks",
+        "permalink": "/memory-attacks/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b_lasting_false_aa7d1e",
+        "title": "Lasting Poison",
+        "permalink": "/lasting-poison/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b_memory_poison_93d7eb",
+        "title": "Evidence Limits",
+        "permalink": "/evidence-limits/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b_memory_poison_cd321e",
+        "title": "Memory Controls",
+        "permalink": "/memory-controls/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143",
+        "title": "AI Replication",
+        "permalink": "/ai-replication/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143_ai_resource_a_1a924a",
+        "title": "Warning Tests",
+        "permalink": "/warning-tests/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143_cloud_provide_f7d303",
+        "title": "Cloud Chokepoints",
+        "permalink": "/cloud-chokepoints/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143_copied_ai_res_2e07f5",
+        "title": "Resource Stack",
+        "permalink": "/resource-stack/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "title": "AI Deception",
+        "permalink": "/ai-deception/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33",
+        "title": "Alignment Faking",
+        "permalink": "/alignment-faking/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_alignment_fak_62d9ab",
+        "title": "Setup Limits",
+        "permalink": "/setup-limits/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_scratchpad_st_70c1d5",
+        "title": "Scratchpad Intent",
+        "permalink": "/scratchpad-intent/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_training_awar_681967",
+        "title": "Training Awareness",
+        "permalink": "/training-awareness/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+        "title": "Evaluation Awareness",
+        "permalink": "/evaluation-awareness/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_evaluation_re_728648",
+        "title": "Test Clues",
+        "permalink": "/test-clues/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_harder_to_det_716368",
+        "title": "Hidden Evals",
+        "permalink": "/hidden-evals/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_unknown_bench_54ebdd",
+        "title": "Benchmark Case",
+        "permalink": "/benchmark-case/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2",
+        "title": "Hidden Goal Audits",
+        "permalink": "/hidden-goal-audits/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_blind_audit_h_2d300b",
+        "title": "Blind Audit",
+        "permalink": "/blind-audit/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_deceptive_ai_d70b89",
+        "title": "Audit Evasion",
+        "permalink": "/audit-evasion/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_interpretabil_7abfd4",
+        "title": "Inside the Model",
+        "permalink": "/inside-the-model/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b",
+        "title": "Sleeper Agents",
+        "permalink": "/sleeper-agents/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_adversarial_t_c71384",
+        "title": "Concealment",
+        "permalink": "/concealment/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_model_scale_s_daf3d9",
+        "title": "Model Scale",
+        "permalink": "/model-scale/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_safe_training_c9da2a",
+        "title": "Fine Tuning",
+        "permalink": "/fine-tuning/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "title": "Disempowerment",
+        "permalink": "/disempowerment/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2",
+        "title": "AI Deskilling",
+        "permalink": "/ai-deskilling/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_ai_medical_de_b7b306",
+        "title": "Medical Deskilling",
+        "permalink": "/medical-deskilling/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_human_takeove_a4bf94",
+        "title": "Takeover Gap",
+        "permalink": "/takeover-gap/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_institutional_090ab9",
+        "title": "Resilience",
+        "permalink": "/resilience/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e",
+        "title": "Rubber Stamp Oversight",
+        "permalink": "/rubber-stamp-oversight/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_accuracy_o_13f515",
+        "title": "Accuracy Trap",
+        "permalink": "/accuracy-trap/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_act_meanin_af17df",
+        "title": "AI Act Oversight",
+        "permalink": "/ai-act-oversight/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_workplace_ai_977a65",
+        "title": "Rubber Stamping",
+        "permalink": "/rubber-stamping/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+        "title": "Automation Race",
+        "permalink": "/automation-race/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_ai_reliance_d_6a6356",
+        "title": "Deskilling",
+        "permalink": "/deskilling/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e",
+        "title": "Automation Bias",
+        "permalink": "/automation-bias/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_human_oversig_545953",
+        "title": "Oversight Rules",
+        "permalink": "/oversight-rules/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99",
+        "title": "Power Without Work",
+        "permalink": "/power-without-work/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_ai_ownership_37dad1",
+        "title": "AI Ownership",
+        "permalink": "/ai-ownership/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_job_change_di_429b17",
+        "title": "Labour Evidence",
+        "permalink": "/labour-evidence/"
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_transfer_depe_8bac5a",
+        "title": "Transfer Dependence",
+        "permalink": "/transfer-dependence/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "AI_Doom_and_E_87399b",
+        "title": "Could Advanced AI Permanently Escape Human Control?",
+        "permalink": "/ai-doom-and-existential-risk-from/",
+        "inline_inbound_count": 90
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "title": "Dangerous Autonomy",
+        "permalink": "/dangerous-autonomy/",
+        "inline_inbound_count": 88
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "title": "Outcome Checks",
+        "permalink": "/outcome-checks/",
+        "inline_inbound_count": 64
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "title": "Catastrophic Misuse",
+        "permalink": "/catastrophic-misuse/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "title": "Hard Bottlenecks",
+        "permalink": "/hard-bottlenecks/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "title": "Full Research Loop",
+        "permalink": "/full-research-loop/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+        "title": "Human Oversight",
+        "permalink": "/human-oversight/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_international_e80cef",
+        "title": "Shared Testing",
+        "permalink": "/shared-testing/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+        "title": "Persistent Lying",
+        "permalink": "/persistent-lying/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_harder_to_det_716368",
+        "title": "Hidden Evals",
+        "permalink": "/hidden-evals/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_physical_ai_c_b60dd7",
+        "title": "Physical Bottlenecks",
+        "permalink": "/physical-bottlenecks/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+        "title": "Data Sabotage",
+        "permalink": "/data-sabotage/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_interpretabil_8825d7",
+        "title": "Interpretability",
+        "permalink": "/interpretability/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_institutional_090ab9",
+        "title": "Resilience",
+        "permalink": "/resilience/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_adversarial_t_c71384",
+        "title": "Concealment",
+        "permalink": "/concealment/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+        "title": "Automation Race",
+        "permalink": "/automation-race/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "title": "Misalignment",
+        "permalink": "/misalignment/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_researcher_5cbf83",
+        "title": "2023 Survey",
+        "permalink": "/2023-survey/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "title": "Disempowerment",
+        "permalink": "/disempowerment/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_extinction_di_7336dd",
+        "title": "Defining Doom",
+        "permalink": "/defining-doom/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "title": "Intelligence Explosion",
+        "permalink": "/intelligence-explosion/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_innovation_fa_f3c594",
+        "title": "False Positives",
+        "permalink": "/false-positives/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "title": "Long Autonomy",
+        "permalink": "/long-autonomy/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_instrumental_04409a",
+        "title": "Instrumental Survival",
+        "permalink": "/instrumental-survival/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e",
+        "title": "Automation Bias",
+        "permalink": "/automation-bias/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+        "title": "Evaluation Awareness",
+        "permalink": "/evaluation-awareness/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_safe_training_c9da2a",
+        "title": "Fine Tuning",
+        "permalink": "/fine-tuning/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_pdoom_100_yea_8872f4",
+        "title": "Time Horizons",
+        "permalink": "/time-horizons/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+        "title": "Gaming Rules",
+        "permalink": "/gaming-rules/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b",
+        "title": "Sleeper Agents",
+        "permalink": "/sleeper-agents/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43_expert_ai_ris_e74283",
+        "title": "Expert Surveys",
+        "permalink": "/expert-surveys/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_scheming_stre_6417d6",
+        "title": "Stress Tests",
+        "permalink": "/stress-tests/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "title": "AI Race",
+        "permalink": "/ai-race/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "title": "Scheming Tests",
+        "permalink": "/scheming-tests/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab",
+        "title": "Performative Scheming",
+        "permalink": "/performative-scheming/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_sycophancy_mi_ab8a1f",
+        "title": "Sycophancy",
+        "permalink": "/sycophancy/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_cyberattacks_411af0",
+        "title": "Defence Failure",
+        "permalink": "/defence-failure/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_software_task_ca2e88",
+        "title": "Software Bias",
+        "permalink": "/software-bias/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "title": "Loss of Control",
+        "permalink": "/loss-of-control/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26",
+        "title": "First Mover Race",
+        "permalink": "/first-mover-race/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_algorithmic_e_2de455",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_parallel_ai_r_884378",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_mean_median_p_8fe759",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_fresh_indepen_733eb5",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_innovation_fa_f3c594",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_benchmark_opt_2f12a1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_reward_hackin_a871e2",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_algorithmic_e_2de455",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_parallel_ai_r_884378",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_false_rese_ec02dc",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_research_d_88a15b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_research_l_9692ad",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_extinction_di_7336dd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_physical_ai_c_b60dd7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_international_e80cef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_scratchpad_st_70c1d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_adversarial_t_c71384",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_innovation_fa_f3c594",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1_more_data_wro_371164",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_scheming_capa_0bd2ad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_physical_ai_c_b60dd7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_research_d_88a15b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_instrumental_04409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_pdoom_100_yea_8872f4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_international_e80cef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_interpretabil_8825d7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+        "to": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_common_ai_saf_9d8823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_realistic_dep_2c2e98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_ai_reliance_d_6a6356",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_innovation_fa_f3c594",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_institutional_090ab9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_extinction_di_7336dd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_researcher_5cbf83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43_expert_ai_ris_e74283",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_pdoom_100_yea_8872f4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_innovation_fa_f3c594",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_research_d_88a15b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_physical_ai_c_b60dd7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_software_task_ca2e88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_physical_ai_c_b60dd7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_researcher_5cbf83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_interpretabil_8825d7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_adversarial_t_c71384",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_researcher_5cbf83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "to": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "to": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+        "to": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_software_task_ca2e88",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

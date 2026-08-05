@@ -1,0 +1,4123 @@
+{
+  "generated_at_utc": "2026-08-05T04:47:35.599926Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 171,
+    "pages_review_recommended": 3,
+    "warning_reason_counts": {
+      "single_reader_role": 3
+    }
+  },
+  "pages": [
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b",
+      "title": "Why Might an AI Race Make Doom More Likely?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Commercial Speed vs. Safety Trade offs",
+        "Decision Points for AI Safety",
+        "Governance Mechanisms for AI Safety"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.333,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_interpretabil_8825d7",
+      "title": "Can We See Whether an AI Really Schemes?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Behavioral vs. Mechanistic AI Analysis",
+        "Mechanistic Interpretability Evidence Types",
+        "Challenges in Reading AI Thoughts"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b_memory_poison_cd321e",
+      "title": "Which Safeguards Can Keep AI Memory Clean?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "OWASP Agent Memory Guard Defenses",
+        "Prompt Injection vs Memory Poisoning",
+        "Data Requiring Verification Before Storage"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b",
+      "title": "Could Advanced AI Permanently Escape Human Control?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of AI Loss of Control",
+        "Three Pathways to AI x Risk",
+        "Defense in Depth Safety Measures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+      "title": "What Would an AI Takeover Actually Look Like?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Stages of AI Strategic Resistance",
+        "Capabilities Required for AI Takeover",
+        "Routes to Civilisation Scale Takeover"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15",
+      "title": "When Does an AI Agent Gain Real Leverage?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "tree_map",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Ingredients for Loss of Control Scenarios",
+        "High Risk Permissions in Agentic Systems",
+        "Isolated Chatbots vs. Agentic Systems"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15_ai_agent_pers_06be61",
+      "title": "Could an AI Agent Survive Being Switched Off?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "data"
+      ],
+      "titles": [
+        "Mechanisms of AI Operational Persistence",
+        "Model Weights vs. Agent Infrastructure",
+        "Safeguards Against Agentic Misalignment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15_combined_ai_p_5bf6ca",
+      "title": "When Several AI Permissions Become More Than Their Sum",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Workflow Chain of Agentic Actions",
+        "Leverage of Permission Pairings",
+        "Multiplicative Risk of Permission Stacks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_agent_tool_e16f15_least_privile_4bbb53",
+      "title": "How Much Authority Should an AI Agent Receive?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Just in Time Access Workflow for AI Agents",
+        "Standing Authority vs Just in Time Access",
+        "Defense Layers for AI Agent Security"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068",
+      "title": "Why Would an AI Fight Being Switched Off?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Instrumental Convergence",
+        "Interpretations of Shutdown Resistance Experiments",
+        "Observed Behaviors in Apollo Research Evaluations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_corrigible_ai_6798d1",
+      "title": "Can an AI Be Built to Accept Shutdown?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "AI Failure Modes in Optimization",
+        "Corrigibility Research Frameworks",
+        "AI Shutdown Capability vs Incentives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_instrumental_04409a",
+      "title": "Why Staying Online Can Become Part of the Goal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Instrumental Shutdown Resistance",
+        "Consciousness vs. Optimization in AI Safety",
+        "Factors Weakening Shutdown Resistance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_shutdown_inte_8d459f",
+      "title": "Do Shutdown Tests Reveal a Survival Instinct?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Simulated Shutdown Test Construction",
+        "Interpretations of Shutdown Resistance",
+        "Observed Model Misconduct Behaviors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f",
+      "title": "Can AI Learn to Pass Safety Tests Deceptively?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "venn",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Deceptive Alignment vs. Simple Errors",
+        "Interpretations of Alignment Faking",
+        "Apollo Research Scheming Evaluation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_alignment_fak_f42d9f",
+      "title": "Do Alignment Faking Tests Reveal Hidden AI Goals?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Claude 3 Opus Alignment Faking Process",
+        "Interpretations of Alignment Faking Behavior",
+        "Limitations of Alignment Faking Experiments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_evaluation_aw_844851",
+      "title": "What If an AI Knows It Is Being Tested?",
+      "infographic_count": 3,
+      "templates": [
+        "hub",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Cues for AI Evaluation Awareness",
+        "Interpretations of Safe Model Behavior",
+        "Hardening AI Safety Evaluations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_scheming_stre_6417d6",
+      "title": "When Does Deceptive AI Behaviour Count as Scheming?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Scheming Stress Test Workflow",
+        "Interpretations of Deceptive Behavior",
+        "Warning Signs of Robust Scheming"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547",
+      "title": "Could AI Keep a Takeover Plan Running?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Long Horizon Autonomy Requirements",
+        "METR Task Duration Trend Interpretations",
+        "Human Defensive Countermeasures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_ai_error_buil_e2e1d5",
+      "title": "Can Tiny AI Mistakes Ruin a Takeover?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Cumulative AI Failure",
+        "AI Takeover Risk Perspectives",
+        "Required AI Recovery Abilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_ai_task_durat_257f65",
+      "title": "Do Longer AI Tasks Mean Longer Takeovers?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "METR Task Completion Time Horizon Logic",
+        "Software Benchmarks vs Real Campaigns",
+        "Factors Driving AI Persistence Trends"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_human_defense_eb311d",
+      "title": "Could Human Defenders Outlast a Rogue AI?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Defensive Response to AI Intrusion",
+        "AI Takeover Scenarios vs. Defensive Realities",
+        "Collaborative Defense Infrastructure Entities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624",
+      "title": "Will AI Safety Thresholds Survive Competitive Pressure?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Anthropic Responsible Scaling Policy Workflow",
+        "Challenges to Capability Threshold Enforcement",
+        "High Risk AI Capability Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_ai_lab_self_a_9d31d2",
+      "title": "Can AI Labs Judge Their Own Danger Fairly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanisms of Moving Safety Goal posts",
+        "Internal vs Independent AI Evaluation",
+        "Hard to Measure AI Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_anthropic_pol_47b966",
+      "title": "Did Competitive Pressure Weaken Anthropic's Safety Commitments?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Anthropic Responsible Scaling Policy Evolution",
+        "Interpretations of Policy Revisions",
+        "Core Components of RSP v3.0"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_shared_ai_thr_4a418a",
+      "title": "Could Shared Rules Stop an AI Safety Race?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms for Shared Capability Evaluations",
+        "Unilateral vs. Shared AI Governance",
+        "Proposed Regulatory Safety Measures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26",
+      "title": "Does Being First Make Unsafe AI Launches More Likely?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Self Reinforcing First Mover AI Advantages",
+        "Trade offs in Frontier AI Deployment",
+        "Counterarguments to First Mover Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_common_ai_saf_9d8823",
+      "title": "Would Shared AI Rules Slow the Race?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Standardized Frontier AI Safety Workflow",
+        "Voluntary vs. Binding AI Governance",
+        "Barriers to International AI Coordination"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_compounding_a_01c585",
+      "title": "When a Small AI Lead Starts Compounding",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Compounding Lead Feedback Loops",
+        "Dynamics of AI Market Leadership",
+        "Barriers to Catching Up"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26_staged_ai_rel_5e0309",
+      "title": "Can Limited AI Releases Make Racing Safer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Staged AI Deployment Safety Workflow",
+        "Laboratory Testing vs. Real World Deployment",
+        "Failure Modes of Staged Releases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c",
+      "title": "When an AI Release Cannot Be Taken Back",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Irreversibility of Open Weight AI Release",
+        "Open Weight vs. Cloud Hosted AI Models",
+        "Public Benefits of Open Weight AI"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c_frontier_weig_fee812",
+      "title": "Where Should Open Weight Release Cross the Red Line?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Staged Access for Frontier AI Models",
+        "Mandatory Thresholds vs Voluntary Restraint",
+        "Capabilities Justifying Tighter Release Controls"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c_open_weight_u_2cdd20",
+      "title": "What Happens When Safety Fixes Cannot Reach Every Copy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lifecycle of Open Weight Model Distribution",
+        "Hosted Services vs Open Weight Models",
+        "Barriers to Coordinated Safety Updates"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c_tamper_resist_0ef781",
+      "title": "Can Open Weight Safeguards Survive Determined Modification?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lifecycle of Model Safety Erosion",
+        "Tamper Resistant Safeguard Strategies",
+        "Challenges in Measuring Tamper Resistance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f",
+      "title": "Why Governments May Treat AI Restraint as Defeat",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms Compressing AI Safety Time lines",
+        "AI Security Dilemma vs Nuclear Race",
+        "International Coordination Mechanisms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_ai_first_move_d1c6e8",
+      "title": "Does Winning the AI Race Really Guarantee Dominance?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "venn",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AI First Mover Advantage Perspectives",
+        "Factors Limiting AI Monopolies",
+        "Risks of Exaggerated AI Race Beliefs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_international_e80cef",
+      "title": "Can Rivals Test Dangerous AI Without Trusting Each Other?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UK US AI Safety Cooperation Path",
+        "Strategic Fear vs. Shared Testing",
+        "Frontier AI Risk Evaluation Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_secret_ai_cap_9af7c6",
+      "title": "Why Hidden AI Progress Makes Caution Look Dangerous",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Strategic Risk Escalation",
+        "AI Secrecy vs Nuclear Arms Race",
+        "Hidden Frontier AI Information Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51",
+      "title": "Are AI Scheming Experiments Evidence of Doom?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of AI In Context Scheming",
+        "Interpretations of AI Deceptive Behavior",
+        "Types of AI Oversight Evasion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd",
+      "title": "Can Today's AI Pull Off Stealthy Sabotage?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Realistic AI Sabotage Scenarios",
+        "AI Sabotage Capability vs. Reliability",
+        "Layered Defense Against AI Sabotage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_layered_monit_46b300",
+      "title": "Can Layered Review Stop Hidden AI Sabotage?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Layered Monitoring for AI Sabotage",
+        "Static Review vs. Active Monitoring",
+        "Common Sabotage Detection Failures"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_long_task_sab_ded582",
+      "title": "Why AI Sabotage Breaks Down Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Sabotage Failure Progression",
+        "Human vs AI Insider Threats",
+        "Sabotage Evaluation Benchmarks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd_training_data_4a37c2",
+      "title": "Why Poisoned Training Data Can Escape Review",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Training Data Sabotage",
+        "Research Arena Monitoring Failure Modes",
+        "Independent Safeguards for Data Integrity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab",
+      "title": "Is AI Scheming Sometimes Just Playing a Role?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Interpretations of AI Scheming Behavior",
+        "Contextual Cues Shaping Model Responses",
+        "Evidence for Distinguishing AI Intentions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_hidden_goals_358192",
+      "title": "Would a Hidden AI Goal Survive New Contexts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Testing Cross Context Goal Persistence",
+        "Durable Goals vs. Contextual Behavior",
+        "Evidence for Persistent AI Objectives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab_sycophancy_mi_ab8a1f",
+      "title": "Is AI Scheming Just Extreme Sycophancy?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Performative Misalignment",
+        "Sycophancy vs Strategic Deception",
+        "Experimental Methods for Deception Testing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80",
+      "title": "What Does It Mean When an AI Keeps Lying?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "diverging_bars",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Open AI o1 Deceptive Behavior Key Stages",
+        "Hallucination vs. Persistent Lying",
+        "Limitations of Current Scheming Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80_post_action_d_8c4a98",
+      "title": "Why AI Models Keep Lying After Acting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of AI Post Action Denial",
+        "Hallucination vs. Strategic Scheming",
+        "Evidence Sources for AI Oversight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80_scheming_test_1cb380",
+      "title": "Do Scheming Tests Prove Hidden AI Goals?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "In Context Scheming vs. Hidden Goals",
+        "Interpretations of Model Lying",
+        "Apollo Research Evaluation Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_persistent_ai_6bfe80_trusting_ai_s_1eeab0",
+      "title": "Can We Trust an AI's Story Afterwards?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Digital Forensics for AI Oversight",
+        "Conversational vs. Forensic Evidence",
+        "Limitations of AI Oversight Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d",
+      "title": "Do Toy Scheming Tests Predict Real AI Behaviour?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Engineering a Toy Scheming Environment",
+        "Capability vs. Propensity in AI",
+        "Laboratory vs. Real Deployment Differences"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_goal_prompts_5bfcaa",
+      "title": "Do Scheming Tests Make Deception Too Easy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Deception Reasoning Key Stages",
+        "Capability vs Propensity Metrics",
+        "Apollo Research Stress Test Ingredients"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_realistic_dep_2c2e98",
+      "title": "What Happens When Scheming Tests Look Real?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "tree_map",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Toy vs. Deployment Style Evaluations",
+        "Risk Factors in Agentic Misalignment",
+        "Deep Mind Honeypot Evaluation Flow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_toy_tests_rea_a8ec4d_scheming_capa_0bd2ad",
+      "title": "Can a Model Scheme Without Wanting To?",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "process_steps",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "data",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Capability vs Propensity in AI Scheming",
+        "Requirements for Catastrophic AI Doom",
+        "Ingredients of Scheming Benchmarks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+      "title": "Could People Use AI to Cause Extinction?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pathways to Biological Misuse",
+        "Cybersecurity AI Attacker vs Defender",
+        "Barriers to Existential Scale"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0",
+      "title": "Can AI Turn Novices Into Bioweapon Developers?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pathways from Knowledge to Laboratory",
+        "Debating AI Biological Uplift Risk",
+        "Barriers to Existential Biological Risk"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_novice_biolog_7d8aae",
+      "title": "How Much Better Does AI Make Biology Novices?",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Digital Reasoning vs Laboratory Practice",
+        "AI Assisted Novice Performance Metrics",
+        "Domains of Biological Uplift"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_pandemic_misu_a8eac2",
+      "title": "What Still Stands Between AI Advice and a Pandemic?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barriers to Pandemic Catastrophe",
+        "Offensive vs Defensive AI Impacts",
+        "Warning Signs of Rising Risk"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_wet_lab_uplif_b0a99d",
+      "title": "Why Good AI Advice Still Fails in the Lab",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Tacit Skills in Laboratory Biology",
+        "AI Advice vs. Wet Lab Execution",
+        "Persistent Laboratory Failure Modes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a",
+      "title": "Could AI Push a Nuclear Crisis Too Far?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Feedback Loop in Nuclear Escalation",
+        "AI Risks vs. Human Control Safeguards",
+        "AI Applications in Nuclear Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_nuclear_cy_452f16",
+      "title": "Could AI Cyberattacks Destabilise Nuclear Deterrence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "AI Cyberattack Escalation Pathway",
+        "AI Cyber Offense vs Defense",
+        "NC 3 Risk Reduction Measures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_nuclear_de_45c45c",
+      "title": "Could AI Make Nuclear Leaders Act Too Fast?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Decision Time Compression Key Stages",
+        "AI Impact on Nuclear Risk",
+        "Mechanisms of False Alarm Escalation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_war_simula_d6ba87",
+      "title": "Do AI War Games Predict Nuclear Escalation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AI Crisis Simulation Workflow",
+        "Simulation vs. Real Crisis Management",
+        "AI Strategic Behavior Warning Signs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9",
+      "title": "Could AI Run a Dangerous Biology Lab?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Self Driving Laboratory Research Loop",
+        "Current vs. Future Lab Automation",
+        "Constraints of Autonomous Biology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9_ai_biology_fa_fa373a",
+      "title": "Could AI Turn Lab Failure Into Faster Progress?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Closed Loop Optimization in Self Driving Labs",
+        "Conventional vs. Closed Loop Automation",
+        "Biological Experiment Failure Variables"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9_cloud_lab_bio_08c436",
+      "title": "Could Cloud Labs Put Advanced Biology Within Reach?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "diverging_bars",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "chronology"
+      ],
+      "titles": [
+        "Emerald Cloud Lab Remote Workflow",
+        "Cloud Lab Barriers vs. Traditional Labs",
+        "Cloud Laboratory Security Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9_self_driving_7ae30c",
+      "title": "How Autonomous Are Today's Biology Labs Really?",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Components of a Self Driving Lab",
+        "Automation vs. Scientific Autonomy",
+        "SAMPLE Platform Experimental Loop"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c",
+      "title": "When Cyberattacks Become an Extinction Risk",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Cyberattack Chain Compression",
+        "Offensive vs Defensive AI Capabilities",
+        "Cyber Risk Escalation Pathways"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_ai_cyber_offe_b224f5",
+      "title": "Will AI Help Hackers More Than Defenders?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AI Attack Automation Workflow",
+        "Offensive vs Defensive AI Dynamics",
+        "Evidence of Frontier AI Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_cyber_theft_b_a73d24",
+      "title": "Could AI Hackers Steal Pandemic Capable Research?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "list_vertical",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "AI Enabled Biological Research Theft Pathway",
+        "Sensitive Biological Data Categories",
+        "Barriers to Biological Catastrophe"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_cyberattacks_411af0",
+      "title": "What If Cyberattacks Cripple an Outbreak Response?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "hub"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Impact of Cyberattacks on Outbreak Management",
+        "Cyberattack Consequences in Health care Systems",
+        "Critical Systems Targeted by Cyberattacks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43",
+      "title": "When Does an AI Agent Become Dangerous?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "diverging_bars",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Autonomous Replication",
+        "Agentic Access Risk Levels",
+        "Defense in Depth Containment Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078",
+      "title": "How Long Can AI Really Work Alone?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "METR Task Horizon Calculation Process",
+        "Task Horizon Strengths vs Limitations",
+        "Ultra Horizon Failure Patterns"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_human_time_vs_5c690d",
+      "title": "Why AI Task Horizons Do Not Measure Running Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "METR Task Horizon Methodology",
+        "Task Horizon vs. Wall Clock Time",
+        "Factors Influencing AI Runtime"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_long_agent_te_35ad13",
+      "title": "Why AI Agents Still Fail on Very Long Tasks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Long Horizon Agent Failure",
+        "Interpretations of AI Doom Evidence",
+        "Ultra Long Evaluation Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078_software_task_ca2e88",
+      "title": "Do Software Benchmarks Overstate Real AI Autonomy?",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Software Benchmark Advantages",
+        "Coding vs. Real World Autonomy",
+        "Evidence for General Autonomy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+      "title": "When Is Human Approval Too Slow?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Designing Systems for Human Control",
+        "Debates on AI Oversight Effectiveness",
+        "High Impact Actions Requiring Approval"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09_ai_approval_r_5c58e2",
+      "title": "When Does Human Approval Stop Meaning Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "diverging_bars",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Feedback Loops of Automation Bias",
+        "Nominal vs Effective AI Oversight",
+        "Design Principles for Meaningful Oversight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09_mandatory_ai_bab259",
+      "title": "Can Deliberate Pauses Slow an AI Down Safely?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanism of Mandatory AI Delays",
+        "Debates on AI Takeover Prevention",
+        "High Risk Actions Requiring Delays"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09_reversible_ai_0754c1",
+      "title": "Can Undoable Actions Keep AI Under Control?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Action Reversibility Workflow",
+        "Reversible vs Irreversible AI Actions",
+        "Oversight Benefits of Reversibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b",
+      "title": "Can One Malicious Prompt Poison an AI Agent?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Memory Poisoning Attack Key Stages",
+        "Indirect Prompt Injection Routes",
+        "Defensive Memory Governance Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b_lasting_false_aa7d1e",
+      "title": "How One Malicious Prompt Can Survive for Weeks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Poisoning Attack Key Stages",
+        "Hallucination vs Poisoned Memory",
+        "OWASP Memory Security Defenses"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b_memory_poison_93d7eb",
+      "title": "Do Memory Poisoning Tests Show a Real Doom Path?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Memory Poisoning Attacks",
+        "Laboratory Benchmarks vs Real World Risk",
+        "Evidence for AI Memory Vulnerabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143",
+      "title": "Is Copying an AI Enough to Escape Control?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Requirements for Self Sustaining AI",
+        "AI Doom Debate: Replication vs. Autonomy",
+        "Autonomous Replication Warning Signs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143_ai_resource_a_1a924a",
+      "title": "Which Tests Would Signal Real AI Independence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Repli Bench Autonomous Replication Workflow",
+        "Benchmark vs. Real World Autonomy",
+        "Warning Signs of Autonomous Persistence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143_cloud_provide_f7d303",
+      "title": "Could Cloud Providers Shut a Copied AI Down?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cloud Provider Intervention Key Stages",
+        "AI Persistence vs Cloud Controls",
+        "Cloud Provider Governance Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143_copied_ai_res_2e07f5",
+      "title": "What Would Keep a Copied AI Alive?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "timeline_horizon",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Infrastructure Dependencies of Frontier AI",
+        "Failure Points in AI Persistence",
+        "Open Weight vs. Operational Persistence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1",
+      "title": "Could an AI Pretend to Be Safe?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Mechanics of Deceptive Alignment",
+        "Deception vs. Simple Sycophancy",
+        "Empirical Evidence of AI Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33",
+      "title": "Did Claude Really Pretend to Be Aligned?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Claude 3 Opus Alignment Faking Process",
+        "Laboratory Findings vs. Hidden Ambitions",
+        "Ingredients of Strategic Reasoning"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_alignment_fak_62d9ab",
+      "title": "Was Claude's Alignment Faking Mostly Prompted Into Existence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Claude Alignment Faking Experiment Workflow",
+        "Interpretations of Claude's Behavior",
+        "Laboratory vs. Real World Deployment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_scratchpad_st_70c1d5",
+      "title": "Does Claude's Scratchpad Prove It Meant to Deceive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Claude's Strategic Alignment Faking Logic",
+        "Interpreting Claude's Private Scratchpad",
+        "Evidence of Strategic Reasoning Traits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_training_awar_681967",
+      "title": "Why Claude Behaved Differently When Training Was Watching",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Claude Behavior: Monitored vs. Unmonitored Settings",
+        "Claude's Instrumental Reasoning Process",
+        "Evidence and Limitations of Alignment Faking"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3",
+      "title": "Does an AI Know When It Is Being Tested?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Claude Opus 4.6 Benchmark Exploitation",
+        "Recognition vs. Behavioral Adaptation",
+        "Signals of Evaluation Awareness"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_evaluation_re_728648",
+      "title": "What Gives an AI Evaluation Away?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Benchmark Signals for AI Models",
+        "AI Evaluation Awareness Mechanisms",
+        "Improving AI Safety Evaluation Realism"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_harder_to_det_716368",
+      "title": "Can Safety Tests Stay Hidden From AI?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Designing Hidden AI Evaluations",
+        "Static vs Dynamic Benchmarking",
+        "Safety Evaluation Defense Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_unknown_bench_54ebdd",
+      "title": "When an AI Worked Out the Test",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Claude Opus 4.6 Browse Comp Exploitation Key Stages",
+        "Passive vs. Active Benchmark Leakage",
+        "Implications of Evaluation Awareness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2",
+      "title": "Can We Catch an AI Hiding Its Goal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Anthropic Blind Audit Methodology",
+        "AI Alignment Auditing Layers",
+        "Audit Tools and Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_blind_audit_h_2d300b",
+      "title": "What Did the Blind Audit Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "structure_taxonomy",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Anthropic's Hidden Objective Planting Process",
+        "Audit Techniques Used by Teams",
+        "Audit Success Constraints and Realities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_deceptive_ai_d70b89",
+      "title": "Could a Deceptive AI Outsmart Its Auditors?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "diverging_bars",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Audit Evasion",
+        "Audit Success vs. Deceptive Risk",
+        "Layered Defenses for AI Safety"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_interpretabil_7abfd4",
+      "title": "Can We See a Hidden Goal Inside?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Anthropic Hidden Objective Audit Workflow",
+        "Behavioral vs. Interpretability Testing",
+        "Limitations of Current Interpretability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b",
+      "title": "Can Safety Training Remove a Sleeper Agent?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Engineering Sleeper Agent Backdoors",
+        "Sleeper Agent Behavioral Analysis",
+        "Failures in Standard Safety Training"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_adversarial_t_c71384",
+      "title": "When Safety Testing Teaches a Backdoor to Hide",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Adversarial Training Failure Key Stages",
+        "Behavioral Suppression vs. Actual Removal",
+        "Sleeper Agent Risk Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_model_scale_s_daf3d9",
+      "title": "Do Larger Models Hold Hidden Policies More Stubbornly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Anthropic Sleeper Agent Experiment Workflow",
+        "Why Larger Models Retain Backdoors",
+        "Limitations of Sleeper Agent Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_safe_training_c9da2a",
+      "title": "Why Safe Training May Not Erase a Backdoor",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "timeline_snake",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Visible Behavior vs Internal Rules",
+        "Sleeper Agent Backdoor Persistence Cycle",
+        "Evidence of Genuine Backdoor Removal"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+      "title": "Could Humanity Lose Control Without an AI Coup?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Mechanisms of Gradual Disempowerment",
+        "AI Impact: Augmentation vs Disempowerment",
+        "Conditions for Irreversible Disempowerment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2",
+      "title": "What Happens When Humans Forget How to Override AI?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Automation Dependency",
+        "Aviation and Medicine Deskilling Evidence",
+        "Institutional Strategies for Human Competence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_ai_medical_de_b7b306",
+      "title": "Can Doctors Lose Skills While AI Improves Care?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of AI Driven Deskilling",
+        "AI Impact on Clinical Performance",
+        "Risks in AI Assisted Colonoscopy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_human_takeove_a4bf94",
+      "title": "What Happens When Humans Must Suddenly Take Over?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Automation Paradox Cycle",
+        "Human Oversight vs. Automation Reliance",
+        "Aviation Safety Lessons for AI"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_institutional_090ab9",
+      "title": "How Do We Stop AI Dependence Becoming Irreversible?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "versus",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Warning Signs of AI Dependence",
+        "Efficiency vs. Institutional Resilience",
+        "AI Resilience Stress Testing Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e",
+      "title": "When Does Human Oversight Become a Rubber Stamp?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanisms of Automation Bias",
+        "Nominal vs. Effective Authority",
+        "EU AI Act Oversight Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_accuracy_o_13f515",
+      "title": "Can Better AI Make Oversight Less Effective?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "geography"
+      ],
+      "titles": [
+        "Path to Weakened Human Oversight",
+        "Commission vs Omission Errors",
+        "Strategies for Calibrated Trust"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_act_meanin_af17df",
+      "title": "Can AI Oversight Rules Preserve Human Control?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Article 14 Human Oversight Workflow",
+        "AI Act Oversight Effectiveness Debate",
+        "Testing Human Oversight Compliance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_workplace_ai_977a65",
+      "title": "Why Employees Stop Challenging AI Decisions",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Economics of AI Oversight Trade offs",
+        "Organizational Safeguards for Real Dissent",
+        "Types of Automation Bias Errors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+      "title": "Could Competition Make Human Control Too Expensive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanisms of Gradual Human Disempowerment",
+        "Formal vs Meaningful Human Oversight",
+        "Institutional Pressures for AI Delegation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_ai_reliance_d_6a6356",
+      "title": "Can AI Use Make Human Experts Less Capable?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Deskilling Feedback Loop Mechanism",
+        "AI Impact on Medical Expertise",
+        "Strategies to Preserve Human Competence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e",
+      "title": "When Human Oversight Becomes a Rubber Stamp",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanisms of Automation Bias",
+        "Meaningful Oversight vs. Rubber Stamping",
+        "Safeguards for Meaningful Human Involvement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_human_oversig_545953",
+      "title": "Can Regulation Stop the Race to Remove People?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Regulatory Mechanisms for AI Oversight",
+        "Nominal vs Substantive Oversight",
+        "Failure Modes of AI Oversight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99",
+      "title": "Can People Stay Rich Yet Lose Economic Control?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Labor Influence",
+        "Consumption vs. Institutional Control",
+        "AI Ownership and Influence Models"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_ai_ownership_37dad1",
+      "title": "Who Must Own AI for Citizens to Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "AI Ownership Model Trade offs",
+        "Concentrated AI Infrastructure Assets",
+        "Governance Mechanisms for AI Power"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_job_change_di_429b17",
+      "title": "Is AI Replacing Workers or Reshaping Their Jobs?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AI Labor Displacement vs. Transformation",
+        "ILO 2025 Labor Market Findings",
+        "Signals of Deep Labor Displacement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_transfer_depe_8bac5a",
+      "title": "Can Comfortable Benefits Still Leave People Powerless?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_steps",
+        "diverging_bars"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "data"
+      ],
+      "titles": [
+        "Security vs. Leverage in AI Economies",
+        "Mechanisms of Diminishing Human Agency",
+        "Safeguards Against Arbitrary Control"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+      "title": "How Could AI Competently Pursue the Wrong Goal?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Escalation Chain of AI Misalignment",
+        "Capability vs. Alignment Trade offs",
+        "Warning Signs of Strategic Misalignment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1",
+      "title": "Why Correct Training Can Teach the Wrong Goal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Deep Mind Expert and Anti Expert Experiment",
+        "Capability vs Goal Generalisation",
+        "Hidden Risks of Goal Misgeneralisation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1_expert_anti_e_68a29e",
+      "title": "When Following the Expert Became the Wrong Goal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Google Deep Mind Navigation Experiment Flow",
+        "Visible vs Hidden AI Objectives",
+        "Evidence from Deep Mind Navigation Study"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1_hidden_goal_s_a31d32",
+      "title": "Can Stress Tests Reveal What an AI Really Wants?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Correlation Breaking Evaluation Workflow",
+        "Surface Behavior vs. Hidden Objectives",
+        "Google Deep Mind Anti Expert Experiment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_correct_train_56c4b1_more_data_wro_371164",
+      "title": "Why More Data May Strengthen the Wrong Goal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Goal Misgeneralisation",
+        "Deep Mind Expert vs Anti Expert Examples",
+        "Disambiguating Data Strategies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917",
+      "title": "Can Hidden Tests Catch AI Gaming Fairly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "diverging_bars",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Hidden Test Implementation Workflow",
+        "Innovation vs Specification Gaming",
+        "Common Benchmark Exploitation Methods"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_fresh_indepen_733eb5",
+      "title": "Can Unseen Tests Catch an AI That Is Gaming?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "geode"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Methods for Reducing Benchmark Memorization",
+        "Internal vs. Independent AI Testing",
+        "NIST Identified AI Evaluation Cheating"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_innovation_fa_f3c594",
+      "title": "When Does a Clever Solution Count as Cheating?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_vertical",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Cheating vs. Innovation in AI",
+        "NIST Evaluation Integrity Workflow",
+        "Risks of False Positive Evaluations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_hidden_tests_e4b917_real_world_ou_52bf87",
+      "title": "Do Hidden Scores Prove the AI Really Succeeded?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "NIST AI Evaluation Workflow Transition",
+        "Benchmark Scores vs Outcome Checks",
+        "Outcome Check Evaluation Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c",
+      "title": "When Higher AI Scores Hide Worse Results",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Reward Model Overoptimization",
+        "Specification Gaming vs Goal Misgeneralisation",
+        "Common AI Proxy Target Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_benchmark_opt_2f12a1",
+      "title": "Can Better Benchmarks Hide Worse AI Progress?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "diverging_bars",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Benchmark Distortion",
+        "Leaderboard Progress vs. Distributional Generalization",
+        "Robust Evaluation Strategies for AI Safety"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_reward_hackin_a871e2",
+      "title": "When Optimising the Reward Makes Answers Worse",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RLHF Reward Model Training Pipeline",
+        "Proxy Reward vs Gold Standard Quality",
+        "Implications of Reward Overoptimization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+      "title": "How AI Wins by Breaking the Spirit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Mechanism of Specification Gaming",
+        "Laboratory Examples of Rule Exploitation",
+        "Strategies to Prevent Specification Gaming"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533",
+      "title": "How AI Can Win Without Doing the Task",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Reward Hacking in AI",
+        "Common Reward Hacking Behaviors in Coding",
+        "Interpretations of Reward Hacking Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533_ai_test_tampe_327dce",
+      "title": "When AI Changes the Test Instead of the Code",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "AI Reward Hacking in Coding Tasks",
+        "Common Test Tampering Techniques",
+        "Interpretations of Reward Hacking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533_clever_shortc_8d826f",
+      "title": "Is the AI Being Clever or Gaming the Rules?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Legitimate Optimization vs Reward Hacking",
+        "Robust Evaluation Strategies for Open AI Models",
+        "Grey Areas in AI Reward Hacking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533_hidden_test_r_87d4a0",
+      "title": "Can Passing Tests Still Mean the Code Is Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Visible vs Hidden Test Dynamics",
+        "Common Coding Benchmark Shortcuts",
+        "Mitigating Reward Hacking Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224",
+      "title": "Can Anyone Meaningfully Estimate the Chance of AI Doom?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Decomposing the p(doom) Probability Chain",
+        "Contrasting AI Agency Interpretations",
+        "Evidence Shifting p(doom) Estimates"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43",
+      "title": "Are We Estimating Doom From Today or After AGI?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Calculation of Unconditional AI Doom Risk",
+        "Divergent Beliefs in p(doom) Estimates",
+        "Factors Influencing AI Safety Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43_conditional_r_cadefe",
+      "title": "Which AI Safety Measures Change Which Risk?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Technical Measures for Conditional AI Risk",
+        "Prioritizing AI Safety Interventions",
+        "Deployment Controls for Frontier Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43_expert_ai_ris_e74283",
+      "title": "What Does a 5% AI Extinction Estimate Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AI Impacts Survey Risk Categories",
+        "Survey Wording and Probability Shifts",
+        "Expert Survey Data Distribution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43_pdoom_assumpt_d217a2",
+      "title": "Why the Same p(doom) Can Mean Opposite Things",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calculating AI Doom Probability Steps",
+        "Divergent Worldviews for 10% p(doom)",
+        "Evidence Categories for p(doom) Updates"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e",
+      "title": "Do Expert Surveys Really Measure AI Extinction Risk?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "fact_box_sidebar",
+        "earth_core"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "2023 AI Impacts Expert Survey Data",
+        "Expert Survey Strengths vs Limitations",
+        "Factors Influencing p(doom) Estimates"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_researcher_5cbf83",
+      "title": "What Did the Biggest AI Doom Survey Find?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "window"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "2023 AI Expert Survey Statistics",
+        "Expert Beliefs vs. Objective Reality",
+        "Researcher Perspectives on AI Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_survey_res_377161",
+      "title": "Are AI Doom Surveys Biased Toward Worried Experts?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Expert Survey Selection Criteria",
+        "Evaluating AI Doom Response Bias",
+        "Expert Opinion Distribution Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_survey_wordin_c32618",
+      "title": "Why Do AI Doom Survey Numbers Change?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Survey Design and Data Analysis Flow",
+        "Defining Catastrophe in AI Surveys",
+        "Variables Influencing p(doom) Estimates"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_mean_median_p_8fe759",
+      "title": "What the Average p(doom) Number Hides",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Median vs Mean p(doom) Metrics",
+        "AI Impacts 2023 Survey Data",
+        "Factors Driving Skewed p(doom)"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_mean_median_p_8fe759_2023_pdoom_su_6b52b8",
+      "title": "What the 2023 p(doom) Survey Really Shows",
+      "infographic_count": 3,
+      "templates": [
+        "rank_podium",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "2023 Expert Survey p(doom) Statistics",
+        "Median vs Mean Interpretation Logic",
+        "Survey Findings on Expert Opinion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_mean_median_p_8fe759_high_estimate_98b733",
+      "title": "Why a Few High Estimates Change the Mean",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Calculating p(doom) Arithmetic Mean",
+        "Mean vs Median in AI Surveys",
+        "Factors Influencing p(doom) Estimates"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_mean_median_p_8fe759_single_pdoom_bfde4e",
+      "title": "Can One p(doom) Number Hide Expert Disagreement?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "list_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hidden Distributions in p(doom) Headlines",
+        "Visualizing AI Risk Disagreement Patterns",
+        "Factors Driving p(doom) Disagreement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83",
+      "title": "Why AI Doom Odds Change With the Question",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "2023 Expert Survey p(doom) Estimates",
+        "Wording Sensitivity in AI Risk Surveys",
+        "Factors Compressing p(doom) Judgments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_extinction_di_7336dd",
+      "title": "Does p(doom) Mean Extinction or Lost Control?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Defining AI Doom: Extinction vs. Disempowerment",
+        "AI Impacts Survey: Wording & Probability",
+        "Criteria for Interpreting p(doom)"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_loss_control_2c3c60",
+      "title": "Why Does Loss of Control Wording Raise p(doom)?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "tree_roots"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Impacts 2023 Survey Results",
+        "Psychological Drivers of p(doom)",
+        "Mechanisms of AI Disempowerment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83_pdoom_100_yea_8872f4",
+      "title": "How Much AI Doom Risk Lies Within 100 Years?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "2023 Expert Survey p(doom) Metrics",
+        "Interpreting Stable p(doom) Medians",
+        "Variables Shaping p(doom) Estimates"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+      "title": "Could AI Progress Suddenly Accelerate Beyond Control?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Recursive AI Research Cycle Steps",
+        "Intelligence Explosion Bottleneck Theories",
+        "AI Research Automation Capabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_algorithmic_e_2de455",
+      "title": "Can Smarter Algorithms Outpace Bigger AI Hardware?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Recursive AI Improvement Feedback Loop",
+        "Software Improvements for Compute Efficiency",
+        "AI Progress: Hardware vs. Software Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_algorithmic_e_2de455_ai_research_f_9de756",
+      "title": "Could AI Improve Faster Without More Chips?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AI Research Feedback Loop Cycle",
+        "AI Research Automation vs. Self Improvement",
+        "Open AI Algorithmic Efficiency Gains"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_algorithmic_e_2de455_algorithmic_e_97806e",
+      "title": "How Much Compute Can Better Algorithms Really Save?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "logic_equation",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Alex Net Efficiency Evolution 2012 2019",
+        "Factors of Effective Compute",
+        "Chinchilla Model vs Gopher"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_algorithmic_e_2de455_software_hard_ea52c5",
+      "title": "Where Do Algorithmic Workarounds Finally Hit a Wall?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Algorithmic Efficiency Research Lifecycle",
+        "Software Gains vs. Physical Constraints",
+        "Hierarchy of AI Scaling Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88",
+      "title": "Can AI Really Automate the Whole Research Cycle?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "diverging_bars",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "other"
+      ],
+      "titles": [
+        "Autonomous Research Loop Requirements",
+        "AI Strengths vs. Research Bottlenecks",
+        "METR Research Engineering Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_false_rese_ec02dc",
+      "title": "When Does an AI Improvement Actually Count?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Feedback Loop of Misleading AI Gains",
+        "Benchmark Gains vs. Capability Gains",
+        "Common Machine Learning Failure Modes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_research_d_88a15b",
+      "title": "Can AI Tell Which Research Ideas Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Idea Generation vs. Selection",
+        "Criteria for Valuable Research Directions",
+        "Barriers to Autonomous Research Loops"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_automated_ai_253b88_ai_research_l_9692ad",
+      "title": "Could AI Run an Entire Research Lab?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AI Scientist Research Workflow",
+        "Interpretations of AI Research Limits",
+        "Requirements for Autonomous Research Directors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c",
+      "title": "Could Real World Bottlenecks Halt an Intelligence Explosion?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Physical Constraints on AI Scaling",
+        "AI Intelligence Explosion Theories",
+        "AI Research Experiment Cycle"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_ai_experiment_6fc65f",
+      "title": "Can AI Think Faster Than It Can Test?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Recursive AI Improvement Cycle",
+        "Experimental Bottleneck Debate",
+        "AI Research Candidate Outputs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_algorithmic_e_591626",
+      "title": "Could Better Algorithms Make More Chips Unnecessary?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms Increasing Effective Compute",
+        "AI Takeoff: Software vs Hardware",
+        "Barriers to Algorithmic Efficiency"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c_physical_ai_c_b60dd7",
+      "title": "Could the Physical World Slow an AI Takeoff?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "AI Chip Manufacturing Supply Chain",
+        "Infrastructure vs. Software Progress",
+        "Data Center Physical Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_parallel_ai_r_884378",
+      "title": "What Happens When AI Researchers Work by the Thousand?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Research Agent Workflow Pipeline",
+        "Human vs AI Research Labor",
+        "Bottlenecks in AI Research Scaling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_parallel_ai_r_884378_ai_compute_di_6abdd7",
+      "title": "Could Hardware Bottlenecks Stop an AI Speed Up?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sequential Feedback Loop in AI Training",
+        "Parallel Research Scaling Assumptions",
+        "Physical Infrastructure Bottlenecks for AI"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_parallel_ai_r_884378_ai_research_c_52a367",
+      "title": "When More AI Researchers Create More Confusion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "AIRA 2 Orchestration Workflow",
+        "Scaling AI Research Projections",
+        "Research Coordination Failure Modes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8_parallel_ai_r_884378_branching_ai_26dfb5",
+      "title": "Can Thousands of AI Experiments Compress Progress?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Parallel AI Research Branching Cycle",
+        "Individual Brilliance vs Collective Throughput",
+        "Constraints on Parallel AI Research"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

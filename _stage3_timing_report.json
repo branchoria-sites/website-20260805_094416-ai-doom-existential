@@ -1,0 +1,1135 @@
+{
+  "version": 1,
+  "page_count": 36,
+  "total_page_seconds": 135.4184,
+  "average_page_seconds": 3.7616,
+  "phase_totals_seconds": {
+    "internal_links": 60.9711,
+    "content_assembly": 21.8265,
+    "youtube": 18.3456,
+    "monetization": 16.7785,
+    "media_svg": 13.3995,
+    "quality_write": 1.958,
+    "preparation": 1.0924,
+    "content_cleanup_final": 1.0214,
+    "content_cleanup_initial": 0.0252
+  },
+  "slowest_pages": [
+    {
+      "base_name": "AI_Doom_and_E_87399b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0199,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.9938,
+        "content_cleanup_final": 0.0604,
+        "media_svg": 0.3963,
+        "youtube": 2.0965,
+        "content_assembly": 0.8143,
+        "monetization": 1.5696,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6927,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.3582,
+        "content_cleanup_final": 0.0555,
+        "media_svg": 0.2215,
+        "youtube": 2.1835,
+        "content_assembly": 0.764,
+        "monetization": 1.0067,
+        "quality_write": 0.082
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.615,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.0619,
+        "content_cleanup_final": 0.0525,
+        "media_svg": 0.2222,
+        "youtube": 2.2117,
+        "content_assembly": 1.0457,
+        "monetization": 0.9139,
+        "quality_write": 0.0835
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4977,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6112,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3936,
+        "youtube": 2.1286,
+        "content_assembly": 0.5555,
+        "monetization": 0.7119,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0795,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6235,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.4108,
+        "youtube": 2.174,
+        "content_assembly": 0.5572,
+        "monetization": 0.149,
+        "quality_write": 0.1107
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_accuracy_o_13f515",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9618,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6201,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.4084,
+        "youtube": 2.1626,
+        "content_assembly": 0.5587,
+        "monetization": 0.1141,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_act_meanin_af17df",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6076,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6296,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.378,
+        "youtube": 1.7732,
+        "content_assembly": 0.575,
+        "monetization": 0.1449,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5565,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6323,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3944,
+        "youtube": 1.7698,
+        "content_assembly": 0.5362,
+        "monetization": 0.133,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_scratchpad_st_70c1d5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3461,
+      "phases": {
+        "preparation": 0.0334,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.692,
+        "content_cleanup_final": 0.0313,
+        "media_svg": 0.4032,
+        "youtube": 0.0096,
+        "content_assembly": 0.5834,
+        "monetization": 1.5449,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_transfer_depe_8bac5a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3183,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6008,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3785,
+        "youtube": 0.0083,
+        "content_assembly": 0.5542,
+        "monetization": 1.6845,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_shared_ai_thr_4a418a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3024,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5584,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.3936,
+        "youtube": 0.0133,
+        "content_assembly": 0.7234,
+        "monetization": 1.5267,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_human_takeove_a4bf94",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2773,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.603,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.3811,
+        "youtube": 1.4825,
+        "content_assembly": 0.5835,
+        "monetization": 0.1224,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6157,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.6647,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.461,
+        "youtube": 0.0096,
+        "content_assembly": 0.5915,
+        "monetization": 0.7637,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5698,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.2804,
+        "content_cleanup_final": 0.0551,
+        "media_svg": 0.1893,
+        "youtube": 0.0207,
+        "content_assembly": 0.7696,
+        "monetization": 0.1362,
+        "quality_write": 0.0851
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_deceptive_ai_d70b89",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5175,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6991,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.4231,
+        "youtube": 0.0244,
+        "content_assembly": 0.5449,
+        "monetization": 0.7254,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.458,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.627,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.3856,
+        "youtube": 0.0102,
+        "content_assembly": 0.6066,
+        "monetization": 0.7119,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_scheming_stre_6417d6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3763,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5996,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.393,
+        "youtube": 0.0091,
+        "content_assembly": 0.5431,
+        "monetization": 0.7356,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_evaluation_re_728648",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3751,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6243,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3879,
+        "youtube": 0.0192,
+        "content_assembly": 0.5489,
+        "monetization": 0.7132,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_secret_ai_cap_9af7c6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3588,
+      "phases": {
+        "preparation": 0.0413,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6141,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.4113,
+        "youtube": 0.0112,
+        "content_assembly": 0.5645,
+        "monetization": 0.6498,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_safe_training_c9da2a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3001,
+      "phases": {
+        "preparation": 0.0352,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6043,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3948,
+        "youtube": 0.0253,
+        "content_assembly": 0.5119,
+        "monetization": 0.6673,
+        "quality_write": 0.0431
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "AI_Doom_and_E_87399b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0199,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.9938,
+        "content_cleanup_final": 0.0604,
+        "media_svg": 0.3963,
+        "youtube": 2.0965,
+        "content_assembly": 0.8143,
+        "monetization": 1.5696,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.615,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.0619,
+        "content_cleanup_final": 0.0525,
+        "media_svg": 0.2222,
+        "youtube": 2.2117,
+        "content_assembly": 1.0457,
+        "monetization": 0.9139,
+        "quality_write": 0.0835
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_recursive_ai_6fe4f8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5698,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.2804,
+        "content_cleanup_final": 0.0551,
+        "media_svg": 0.1893,
+        "youtube": 0.0207,
+        "content_assembly": 0.7696,
+        "monetization": 0.1362,
+        "quality_write": 0.0851
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0135,
+      "phases": {
+        "preparation": 0.0816,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.9045,
+        "content_cleanup_final": 0.0484,
+        "media_svg": 0.1095,
+        "youtube": 0.0145,
+        "content_assembly": 0.6536,
+        "monetization": 0.1345,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6927,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.3582,
+        "content_cleanup_final": 0.0555,
+        "media_svg": 0.2215,
+        "youtube": 2.1835,
+        "content_assembly": 0.764,
+        "monetization": 1.0067,
+        "quality_write": 0.082
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8888,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7355,
+        "content_cleanup_final": 0.0506,
+        "media_svg": 0.1565,
+        "youtube": 0.0131,
+        "content_assembly": 0.6892,
+        "monetization": 0.1363,
+        "quality_write": 0.0764
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_dangerous_ai_518d43_human_oversig_323b09",
+      "level": 3,
+      "outcome": "error",
+      "total_seconds": 2.6318,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.652,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.3933,
+        "youtube": 0.0098,
+        "content_assembly": 0.5298
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9202,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6739,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.4049,
+        "youtube": 0.0117,
+        "content_assembly": 0.5635,
+        "monetization": 0.1533,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7447,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.55,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.3996,
+        "youtube": 0.0126,
+        "content_assembly": 0.5653,
+        "monetization": 0.1216,
+        "quality_write": 0.0486
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.458,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.627,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.3856,
+        "youtube": 0.0102,
+        "content_assembly": 0.6066,
+        "monetization": 0.7119,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8824,
+      "phases": {
+        "preparation": 0.0307,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6031,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4173,
+        "youtube": 0.0153,
+        "content_assembly": 0.5864,
+        "monetization": 0.1583,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0795,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6235,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.4108,
+        "youtube": 2.174,
+        "content_assembly": 0.5572,
+        "monetization": 0.149,
+        "quality_write": 0.1107
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6157,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.6647,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.461,
+        "youtube": 0.0096,
+        "content_assembly": 0.5915,
+        "monetization": 0.7637,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2_deceptive_ai_d70b89",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5175,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6991,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.4231,
+        "youtube": 0.0244,
+        "content_assembly": 0.5449,
+        "monetization": 0.7254,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_benchmark_opt_2f12a1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8693,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6365,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.402,
+        "youtube": 0.0109,
+        "content_assembly": 0.5512,
+        "monetization": 0.1677,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_hidden_goals_f9ee5f_scheming_stre_6417d6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3763,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5996,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.393,
+        "youtube": 0.0091,
+        "content_assembly": 0.5431,
+        "monetization": 0.7356,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_long_horizon_0b7547_ai_error_buil_e2e1d5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8931,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6576,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3912,
+        "youtube": 0.0133,
+        "content_assembly": 0.5949,
+        "monetization": 0.1302,
+        "quality_write": 0.0549
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4977,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6112,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3936,
+        "youtube": 2.1286,
+        "content_assembly": 0.5555,
+        "monetization": 0.7119,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_biology_no_10dbb0_pandemic_misu_a8eac2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8585,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5825,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.4285,
+        "youtube": 0.0202,
+        "content_assembly": 0.5775,
+        "monetization": 0.1353,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_nuclear_cy_452f16",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8112,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6299,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.3982,
+        "youtube": 0.0098,
+        "content_assembly": 0.54,
+        "monetization": 0.1349,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_nuclear_de_45c45c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8209,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6285,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3877,
+        "youtube": 0.0097,
+        "content_assembly": 0.5655,
+        "monetization": 0.1283,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20_ai_nuclear_cr_7bf49a_ai_war_simula_d6ba87",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7546,
+      "phases": {
+        "preparation": 0.031,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5404,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.4176,
+        "youtube": 0.0105,
+        "content_assembly": 0.5723,
+        "monetization": 0.1158,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c_ai_cyber_offe_b224f5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0033,
+      "phases": {
+        "preparation": 0.0632,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6978,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.4137,
+        "youtube": 0.0109,
+        "content_assembly": 0.6104,
+        "monetization": 0.1363,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_scratchpad_st_70c1d5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3461,
+      "phases": {
+        "preparation": 0.0334,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.692,
+        "content_cleanup_final": 0.0313,
+        "media_svg": 0.4032,
+        "youtube": 0.0096,
+        "content_assembly": 0.5834,
+        "monetization": 1.5449,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3_evaluation_re_728648",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3751,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6243,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3879,
+        "youtube": 0.0192,
+        "content_assembly": 0.5489,
+        "monetization": 0.7132,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_sleeper_agent_a5e93b_safe_training_c9da2a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3001,
+      "phases": {
+        "preparation": 0.0352,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6043,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3948,
+        "youtube": 0.0253,
+        "content_assembly": 0.5119,
+        "monetization": 0.6673,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_loss_of_co_b50dba_ai_shutdown_r_e81068_corrigible_ai_6798d1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.861,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5642,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3917,
+        "youtube": 0.0133,
+        "content_assembly": 0.6067,
+        "monetization": 0.1661,
+        "quality_write": 0.0706
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_ai_first_move_d1c6e8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9421,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6283,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 0.4926,
+        "youtube": 0.0166,
+        "content_assembly": 0.5878,
+        "monetization": 0.1179,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624_shared_ai_thr_4a418a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3024,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5584,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.3936,
+        "youtube": 0.0133,
+        "content_assembly": 0.7234,
+        "monetization": 1.5267,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_state_ai_secu_b1c42f_secret_ai_cap_9af7c6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3588,
+      "phases": {
+        "preparation": 0.0413,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6141,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.4113,
+        "youtube": 0.0112,
+        "content_assembly": 0.5645,
+        "monetization": 0.6498,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2_human_takeove_a4bf94",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2773,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.603,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.3811,
+        "youtube": 1.4825,
+        "content_assembly": 0.5835,
+        "monetization": 0.1224,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_accuracy_o_13f515",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9618,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6201,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.4084,
+        "youtube": 2.1626,
+        "content_assembly": 0.5587,
+        "monetization": 0.1141,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_act_meanin_af17df",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6076,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6296,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.378,
+        "youtube": 1.7732,
+        "content_assembly": 0.575,
+        "monetization": 0.1449,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5565,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6323,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3944,
+        "youtube": 1.7698,
+        "content_assembly": 0.5362,
+        "monetization": 0.133,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_survey_res_377161",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6769,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5881,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.3676,
+        "youtube": 0.0101,
+        "content_assembly": 0.5003,
+        "monetization": 0.1173,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_transfer_depe_8bac5a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3183,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6008,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3785,
+        "youtube": 0.0083,
+        "content_assembly": 0.5542,
+        "monetization": 1.6845,
+        "quality_write": 0.0424
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 36,
+    "reused_pages": 135,
+    "rebuilt_pages": 35,
+    "error_pages": 1,
+    "page_work_wall_seconds": 70.8876,
+    "rebuilt_pages_per_minute": 29.6244,
+    "queued_rebuild_pages_per_minute": 30.4708,
+    "apparent_page_work_speedup": 1.9103,
+    "youtube_cache_prepare": {
+      "entries": 39659,
+      "updated": true,
+      "elapsed_seconds": 3.373
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 36,
+      "successful_pages": 35,
+      "failed_pages": 1,
+      "worker_summary": {
+        "28160": {
+          "pages": 13,
+          "successes": 13,
+          "failures": 0,
+          "total_worker_seconds": 49.1721,
+          "max_worker_seconds": 7.0668,
+          "last_base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_transfer_depe_8bac5a"
+        },
+        "11352": {
+          "pages": 12,
+          "successes": 11,
+          "failures": 1,
+          "total_worker_seconds": 46.0198,
+          "max_worker_seconds": 6.6442,
+          "last_base_name": "AI_Doom_and_E_87399b_pdoom_ai_fore_040224_expert_ai_doo_27352e_ai_survey_res_377161"
+        },
+        "18152": {
+          "pages": 11,
+          "successes": 11,
+          "failures": 0,
+          "total_worker_seconds": 41.852,
+          "max_worker_seconds": 6.7457,
+          "last_base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "AI_Doom_and_E_87399b",
+          "level": 1,
+          "success": true,
+          "worker_pid": 28160,
+          "worker_duration_seconds": 7.0668,
+          "total_seconds": 7.0199,
+          "worker_started_at_utc": "2026-08-05T04:46:10.955504Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:17.975421Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14",
+          "level": 2,
+          "success": true,
+          "worker_pid": 18152,
+          "worker_duration_seconds": 6.7457,
+          "total_seconds": 6.6927,
+          "worker_started_at_utc": "2026-08-05T04:46:16.982321Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:23.675112Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_catastrophic_9adf20",
+          "level": 2,
+          "success": true,
+          "worker_pid": 11352,
+          "worker_duration_seconds": 6.6442,
+          "total_seconds": 6.615,
+          "worker_started_at_utc": "2026-08-05T04:46:13.913923Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:20.529005Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_misalignment_9f8c14_proxy_scores_79b67c_specification_a7c1bc",
+          "level": 4,
+          "success": true,
+          "worker_pid": 11352,
+          "worker_duration_seconds": 5.5424,
+          "total_seconds": 5.4977,
+          "worker_started_at_utc": "2026-08-05T04:46:33.449741Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:38.947440Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2",
+          "level": 3,
+          "success": true,
+          "worker_pid": 18152,
+          "worker_duration_seconds": 5.1271,
+          "total_seconds": 5.0795,
+          "worker_started_at_utc": "2026-08-05T04:46:26.695578Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:31.775126Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_accuracy_o_13f515",
+          "level": 4,
+          "success": true,
+          "worker_pid": 28160,
+          "worker_duration_seconds": 5.0074,
+          "total_seconds": 4.9618,
+          "worker_started_at_utc": "2026-08-05T04:46:50.774719Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:55.736552Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e_ai_act_meanin_af17df",
+          "level": 4,
+          "success": true,
+          "worker_pid": 11352,
+          "worker_duration_seconds": 4.651,
+          "total_seconds": 4.6076,
+          "worker_started_at_utc": "2026-08-05T04:46:52.579392Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:57.186998Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_competitive_a_f3e2d4_automation_bi_80847e",
+          "level": 4,
+          "success": true,
+          "worker_pid": 18152,
+          "worker_duration_seconds": 4.6008,
+          "total_seconds": 4.5565,
+          "worker_started_at_utc": "2026-08-05T04:46:54.245105Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:58.801660Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33_scratchpad_st_70c1d5",
+          "level": 4,
+          "success": true,
+          "worker_pid": 11352,
+          "worker_duration_seconds": 4.3884,
+          "total_seconds": 4.3461,
+          "worker_started_at_utc": "2026-08-05T04:46:41.861825Z",
+          "worker_finished_at_utc": "2026-08-05T04:46:46.208014Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Doom_and_E_87399b_gradual_ai_di_061ea9_prosperity_wi_d34b99_transfer_depe_8bac5a",
+          "level": 4,
+          "success": true,
+          "worker_pid": 28160,
+          "worker_duration_seconds": 4.3595,
+          "total_seconds": 4.3183,
+          "worker_started_at_utc": "2026-08-05T04:46:55.783321Z",
+          "worker_finished_at_utc": "2026-08-05T04:47:00.101616Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

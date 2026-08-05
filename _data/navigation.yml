@@ -1,0 +1,565 @@
+sidebar_generated:
+- title: AI Doom
+  title_full: Could Advanced AI Permanently Escape Human Control?
+  url: /ai-doom-and-existential-risk-from/
+  children:
+  - title: AI Deception
+    title_full: Could an AI Pretend to Be Safe? | AI Doom
+    url: /ai-deception/
+    children:
+    - title: Alignment Faking
+      title_full: Did Claude Really Pretend to Be Aligned? | AI Deception
+      url: /alignment-faking/
+      children:
+      - title: Scratchpad Intent
+        title_full: Does Claude's Scratchpad Prove It Meant to Deceive? | Alignment Faking
+        url: /scratchpad-intent/
+      - title: Setup Limits
+        title_full: Was Claude's Alignment Faking Mostly Prompted Into Existence?
+        url: /setup-limits/
+      - title: Training Awareness
+        title_full: Why Claude Behaved Differently When Training Was Watching | Alignment Faking
+        url: /training-awareness/
+    - title: Evaluation Awareness
+      title_full: Does an AI Know When It Is Being Tested? | AI Deception
+      url: /evaluation-awareness/
+      children:
+      - title: Benchmark Case
+        title_full: When an AI Worked Out the Test | Evaluation Awareness
+        url: /benchmark-case/
+      - title: Hidden Evals
+        title_full: Can Safety Tests Stay Hidden From AI? | Evaluation Awareness
+        url: /hidden-evals/
+      - title: Test Clues
+        title_full: What Gives an AI Evaluation Away? | Evaluation Awareness
+        url: /test-clues/
+    - title: Hidden Goal Audits
+      title_full: Can We Catch an AI Hiding Its Goal? | AI Deception
+      url: /hidden-goal-audits/
+      children:
+      - title: Audit Evasion
+        title_full: Could a Deceptive AI Outsmart Its Auditors? | Hidden Goal Audits
+        url: /audit-evasion/
+      - title: Blind Audit
+        title_full: What Did the Blind Audit Really Prove? | Hidden Goal Audits
+        url: /blind-audit/
+      - title: Inside the Model
+        title_full: Can We See a Hidden Goal Inside? | Hidden Goal Audits
+        url: /inside-the-model/
+    - title: Sleeper Agents
+      title_full: Can Safety Training Remove a Sleeper Agent? | AI Deception
+      url: /sleeper-agents/
+      children:
+      - title: Concealment
+        title_full: When Safety Testing Teaches a Backdoor to Hide | Sleeper Agents
+        url: /concealment/
+      - title: Fine Tuning
+        title_full: Why Safe Training May Not Erase a Backdoor | Sleeper Agents
+        url: /fine-tuning/
+      - title: Model Scale
+        title_full: Do Larger Models Hold Hidden Policies More Stubbornly? | Sleeper Agents
+        url: /model-scale/
+  - title: AI Race
+    title_full: Why Might an AI Race Make Doom More Likely? | AI Doom
+    url: /ai-race/
+    children:
+    - title: First Mover Race
+      title_full: Does Being First Make Unsafe AI Launches More Likely? | AI Race
+      url: /first-mover-race/
+      children:
+      - title: Common Rules
+        title_full: Would Shared AI Rules Slow the Race? | First Mover Race
+        url: /common-rules/
+      - title: Compounding Leads
+        title_full: When a Small AI Lead Starts Compounding | First Mover Race
+        url: /compounding-leads/
+      - title: Staged Releases
+        title_full: Can Limited AI Releases Make Racing Safer? | First Mover Race
+        url: /staged-releases/
+    - title: Open Weights
+      title_full: When an AI Release Cannot Be Taken Back | AI Race
+      url: /open-weights/
+      children:
+      - title: Release Thresholds
+        title_full: Where Should Open Weight Release Cross the Red Line? | Open Weights
+        url: /release-thresholds/
+      - title: Tamper Resistance
+        title_full: Can Open Weight Safeguards Survive Determined Modification? | Open Weights
+        url: /tamper-resistance/
+      - title: Unfixed Copies
+        title_full: What Happens When Safety Fixes Cannot Reach Every Copy? | Open Weights
+        url: /unfixed-copies/
+    - title: Safety Thresholds
+      title_full: Will AI Safety Thresholds Survive Competitive Pressure? | AI Race
+      url: /safety-thresholds/
+      children:
+      - title: Anthropic Case
+        title_full: Did Competitive Pressure Weaken Anthropic's Safety Commitments? | Safety Thresholds
+        url: /anthropic-case/
+      - title: Self Assessment
+        title_full: Can AI Labs Judge Their Own Danger Fairly? | Safety Thresholds
+        url: /self-assessment/
+      - title: Shared Standards
+        title_full: Could Shared Rules Stop an AI Safety Race? | Safety Thresholds
+        url: /shared-standards/
+    - title: State Rivalry
+      title_full: Why Governments May Treat AI Restraint as Defeat | AI Race
+      url: /state-rivalry/
+      children:
+      - title: First Mover Myth
+        title_full: Does Winning the AI Race Really Guarantee Dominance? | State Rivalry
+        url: /first-mover-myth/
+      - title: Secrecy Race
+        title_full: Why Hidden AI Progress Makes Caution Look Dangerous | State Rivalry
+        url: /secrecy-race/
+      - title: Shared Testing
+        title_full: Can Rivals Test Dangerous AI Without Trusting Each Other? | State Rivalry
+        url: /shared-testing/
+  - title: Catastrophic Misuse
+    title_full: Could People Use AI to Cause Extinction? | AI Doom
+    url: /catastrophic-misuse/
+    children:
+    - title: Automated Labs
+      title_full: Could AI Run a Dangerous Biology Lab? | Catastrophic Misuse
+      url: /automated-labs/
+      children:
+      - title: Cloud Lab Access
+        title_full: Could Cloud Labs Put Advanced Biology Within Reach? | Automated Labs
+        url: /cloud-lab-access/
+      - title: Current Limits
+        title_full: How Autonomous Are Today's Biology Labs Really? | Automated Labs
+        url: /current-limits/
+      - title: Faster Iteration
+        title_full: Could AI Turn Lab Failure Into Faster Progress? | Automated Labs
+        url: /faster-iteration/
+    - title: Bio Uplift
+      title_full: Can AI Turn Novices Into Bioweapon Developers? | Catastrophic Misuse
+      url: /bio-uplift/
+      children:
+      - title: Biology Uplift
+        title_full: How Much Better Does AI Make Biology Novices? | Bio Uplift
+        url: /biology-uplift/
+      - title: Remaining Barriers
+        title_full: What Still Stands Between AI Advice and a Pandemic? | Bio Uplift
+        url: /remaining-barriers/
+      - title: Wet Lab Gap
+        title_full: Why Good AI Advice Still Fails in the Lab | Bio Uplift
+        url: /wet-lab-gap/
+    - title: Cyber Enablers
+      title_full: When Cyberattacks Become an Extinction Risk | Catastrophic Misuse
+      url: /cyber-enablers/
+      children:
+      - title: Defence Failure
+        title_full: What If Cyberattacks Cripple an Outbreak Response? | Cyber Enablers
+        url: /defence-failure/
+      - title: Offence vs Defence
+        title_full: Will AI Help Hackers More Than Defenders? | Cyber Enablers
+        url: /offence-vs-defence/
+      - title: Research Theft
+        title_full: Could AI Hackers Steal Pandemic Capable Research? | Cyber Enablers
+        url: /research-theft/
+    - title: Nuclear Crises
+      title_full: Could AI Push a Nuclear Crisis Too Far? | Catastrophic Misuse
+      url: /nuclear-crises/
+      children:
+      - title: Cyber Vulnerability
+        title_full: Could AI Cyberattacks Destabilise Nuclear Deterrence? | Nuclear Crises
+        url: /cyber-vulnerability/
+      - title: Rushed Decisions
+        title_full: Could AI Make Nuclear Leaders Act Too Fast? | Nuclear Crises
+        url: /rushed-decisions/
+      - title: War Simulations
+        title_full: Do AI War Games Predict Nuclear Escalation? | Nuclear Crises
+        url: /war-simulations/
+  - title: Dangerous Autonomy
+    title_full: When Does an AI Agent Become Dangerous? | AI Doom
+    url: /dangerous-autonomy/
+    children:
+    - title: AI Replication
+      title_full: Is Copying an AI Enough to Escape Control? | Dangerous Autonomy
+      url: /ai-replication/
+      children:
+      - title: Cloud Chokepoints
+        title_full: Could Cloud Providers Shut a Copied AI Down? | AI Replication
+        url: /cloud-chokepoints/
+      - title: Resource Stack
+        title_full: What Would Keep a Copied AI Alive? | AI Replication
+        url: /resource-stack/
+      - title: Warning Tests
+        title_full: Which Tests Would Signal Real AI Independence? | AI Replication
+        url: /warning-tests/
+    - title: Human Oversight
+      title_full: When Is Human Approval Too Slow? | Dangerous Autonomy
+      url: /human-oversight/
+      children:
+      - title: Reversible Actions
+        title_full: Can Undoable Actions Keep AI Under Control? | Human Oversight
+        url: /reversible-actions/
+      - title: Rubber Stamps
+        title_full: When Does Human Approval Stop Meaning Anything? | Human Oversight
+        url: /rubber-stamps/
+      - title: Safety Delays
+        title_full: Can Deliberate Pauses Slow an AI Down Safely? | Human Oversight
+        url: /safety-delays/
+    - title: Memory Attacks
+      title_full: Can One Malicious Prompt Poison an AI Agent? | Dangerous Autonomy
+      url: /memory-attacks/
+      children:
+      - title: Evidence Limits
+        title_full: Do Memory Poisoning Tests Show a Real Doom Path? | Memory Attacks
+        url: /evidence-limits/
+      - title: Lasting Poison
+        title_full: How One Malicious Prompt Can Survive for Weeks | Memory Attacks
+        url: /lasting-poison/
+      - title: Memory Controls
+        title_full: Which Safeguards Can Keep AI Memory Clean? | Memory Attacks
+        url: /memory-controls/
+    - title: Task Horizons
+      title_full: How Long Can AI Really Work Alone? | Dangerous Autonomy
+      url: /task-horizons/
+      children:
+      - title: Human Time
+        title_full: Why AI Task Horizons Do Not Measure Running Time
+        url: /human-time/
+      - title: Long Tests
+        title_full: Why AI Agents Still Fail on Very Long Tasks | Task Horizons
+        url: /long-tests/
+      - title: Software Bias
+        title_full: Do Software Benchmarks Overstate Real AI Autonomy? | Task Horizons
+        url: /software-bias/
+  - title: Disempowerment
+    title_full: Could Humanity Lose Control Without an AI Coup? | AI Doom
+    url: /disempowerment/
+    children:
+    - title: AI Deskilling
+      title_full: What Happens When Humans Forget How to Override AI? | Disempowerment
+      url: /ai-deskilling/
+      children:
+      - title: Medical Deskilling
+        title_full: Can Doctors Lose Skills While AI Improves Care? | AI Deskilling
+        url: /medical-deskilling/
+      - title: Resilience
+        title_full: How Do We Stop AI Dependence Becoming Irreversible? | AI Deskilling
+        url: /resilience/
+      - title: Takeover Gap
+        title_full: What Happens When Humans Must Suddenly Take Over? | AI Deskilling
+        url: /takeover-gap/
+    - title: Automation Race
+      title_full: Could Competition Make Human Control Too Expensive? | Disempowerment
+      url: /automation-race/
+      children:
+      - title: Automation Bias
+        title_full: When Human Oversight Becomes a Rubber Stamp | Automation Race
+        url: /automation-bias/
+      - title: Deskilling
+        title_full: Can AI Use Make Human Experts Less Capable? | Automation Race
+        url: /deskilling/
+      - title: Oversight Rules
+        title_full: Can Regulation Stop the Race to Remove People? | Automation Race
+        url: /oversight-rules/
+    - title: Power Without Work
+      title_full: Can People Stay Rich Yet Lose Economic Control? | Disempowerment
+      url: /power-without-work/
+      children:
+      - title: AI Ownership
+        title_full: Who Must Own AI for Citizens to Matter? | Power Without Work
+        url: /ai-ownership/
+      - title: Labour Evidence
+        title_full: Is AI Replacing Workers or Reshaping Their Jobs? | Power Without Work
+        url: /labour-evidence/
+      - title: Transfer Dependence
+        title_full: Can Comfortable Benefits Still Leave People Powerless? | Power Without Work
+        url: /transfer-dependence/
+    - title: Rubber Stamp Oversight
+      title_full: When Does Human Oversight Become a Rubber Stamp? | Disempowerment
+      url: /rubber-stamp-oversight/
+      children:
+      - title: Accuracy Trap
+        title_full: Can Better AI Make Oversight Less Effective? | Rubber Stamp Oversight
+        url: /accuracy-trap/
+      - title: AI Act Oversight
+        title_full: Can AI Oversight Rules Preserve Human Control? | Rubber Stamp Oversight
+        url: /ai-act-oversight/
+      - title: Rubber Stamping
+        title_full: Why Employees Stop Challenging AI Decisions | Rubber Stamp Oversight
+        url: /rubber-stamping/
+  - title: Intelligence Explosion
+    title_full: Could AI Progress Suddenly Accelerate Beyond Control? | AI Doom
+    url: /intelligence-explosion/
+    children:
+    - title: Algorithmic Gains
+      title_full: Can Smarter Algorithms Outpace Bigger AI Hardware? | Intelligence Explosion
+      url: /algorithmic-gains/
+      children:
+      - title: Efficiency Gains
+        title_full: How Much Compute Can Better Algorithms Really Save? | Algorithmic Gains
+        url: /efficiency-gains-bbe9de/
+      - title: Hard Limits
+        title_full: Where Do Algorithmic Workarounds Finally Hit a Wall? | Algorithmic Gains
+        url: /hard-limits/
+      - title: Research Loops
+        title_full: Could AI Improve Faster Without More Chips? | Algorithmic Gains
+        url: /research-loops/
+    - title: Full Research Loop
+      title_full: Can AI Really Automate the Whole Research Cycle? | Intelligence Explosion
+      url: /full-research-loop/
+      children:
+      - title: False Progress
+        title_full: When Does an AI Improvement Actually Count? | Full Research Loop
+        url: /false-progress/
+      - title: Long Term Coordination
+        title_full: Could AI Run an Entire Research Lab? | Full Research Loop
+        url: /long-term-coordination/
+      - title: Research Ideas
+        title_full: Can AI Tell Which Research Ideas Matter? | Full Research Loop
+        url: /research-ideas/
+    - title: Hard Bottlenecks
+      title_full: Could Real World Bottlenecks Halt an Intelligence Explosion?
+      url: /hard-bottlenecks/
+      children:
+      - title: Efficiency Gains
+        title_full: Could Better Algorithms Make More Chips Unnecessary? | Hard Bottlenecks
+        url: /efficiency-gains/
+      - title: Experiment Limits
+        title_full: Can AI Think Faster Than It Can Test? | Hard Bottlenecks
+        url: /experiment-limits/
+      - title: Physical Bottlenecks
+        title_full: Could the Physical World Slow an AI Takeoff? | Hard Bottlenecks
+        url: /physical-bottlenecks/
+    - title: Parallel Researchers
+      title_full: What Happens When AI Researchers Work by the Thousand? | Intelligence Explosion
+      url: /parallel-researchers/
+      children:
+      - title: Branching Search
+        title_full: Can Thousands of AI Experiments Compress Progress? | Parallel Researchers
+        url: /branching-search/
+      - title: Compute Limits
+        title_full: Could Hardware Bottlenecks Stop an AI Speed Up? | Parallel Researchers
+        url: /compute-limits/
+      - title: Coordination Limits
+        title_full: When More AI Researchers Create More Confusion | Parallel Researchers
+        url: /coordination-limits/
+  - title: Loss of Control
+    title_full: What Would an AI Takeover Actually Look Like? | AI Doom
+    url: /loss-of-control/
+    children:
+    - title: Hidden Goals
+      title_full: Can AI Learn to Pass Safety Tests Deceptively? | Loss of Control
+      url: /hidden-goals/
+      children:
+      - title: Alignment Faking
+        title_full: Do Alignment Faking Tests Reveal Hidden AI Goals? | Hidden Goals
+        url: /alignment-faking-616889/
+      - title: Stress Tests
+        title_full: When Does Deceptive AI Behaviour Count as Scheming? | Hidden Goals
+        url: /stress-tests/
+      - title: Test Awareness
+        title_full: What If an AI Knows It Is Being Tested? | Hidden Goals
+        url: /test-awareness/
+    - title: Long Autonomy
+      title_full: Could AI Keep a Takeover Plan Running? | Loss of Control
+      url: /long-autonomy/
+      children:
+      - title: Error Buildup
+        title_full: Can Tiny AI Mistakes Ruin a Takeover? | Long Autonomy
+        url: /error-buildup/
+      - title: Human Defenders
+        title_full: Could Human Defenders Outlast a Rogue AI? | Long Autonomy
+        url: /human-defenders/
+      - title: Task Durations
+        title_full: Do Longer AI Tasks Mean Longer Takeovers? | Long Autonomy
+        url: /task-durations/
+    - title: Shutdown Risk
+      title_full: Why Would an AI Fight Being Switched Off? | Loss of Control
+      url: /shutdown-risk/
+      children:
+      - title: Corrigibility
+        title_full: Can an AI Be Built to Accept Shutdown? | Shutdown Risk
+        url: /corrigibility/
+      - title: Instrumental Survival
+        title_full: Why Staying Online Can Become Part of the Goal | Shutdown Risk
+        url: /instrumental-survival/
+      - title: Shutdown Tests
+        title_full: Do Shutdown Tests Reveal a Survival Instinct? | Shutdown Risk
+        url: /shutdown-tests/
+    - title: Tool Access
+      title_full: When Does an AI Agent Gain Real Leverage? | Loss of Control
+      url: /tool-access/
+      children:
+      - title: Access Controls
+        title_full: How Much Authority Should an AI Agent Receive? | Tool Access
+        url: /access-controls/
+      - title: Permission Stacks
+        title_full: When Several AI Permissions Become More Than Their Sum | Tool Access
+        url: /permission-stacks/
+      - title: Persistence Paths
+        title_full: Could an AI Agent Survive Being Switched Off? | Tool Access
+        url: /persistence-paths/
+  - title: Misalignment
+    title_full: How Could AI Competently Pursue the Wrong Goal? | AI Doom
+    url: /misalignment/
+    children:
+    - title: Hidden Tests
+      title_full: Can Hidden Tests Catch AI Gaming Fairly? | Misalignment
+      url: /hidden-tests/
+      children:
+      - title: False Positives
+        title_full: When Does a Clever Solution Count as Cheating? | Hidden Tests
+        url: /false-positives/
+      - title: Fresh Testing
+        title_full: Can Unseen Tests Catch an AI That Is Gaming? | Hidden Tests
+        url: /fresh-testing/
+      - title: Outcome Checks
+        title_full: Do Hidden Scores Prove the AI Really Succeeded? | Hidden Tests
+        url: /outcome-checks/
+    - title: Proxy Failure
+      title_full: When Higher AI Scores Hide Worse Results | Misalignment
+      url: /proxy-failure/
+      children:
+      - title: Benchmark Drift
+        title_full: Can Better Benchmarks Hide Worse AI Progress? | Proxy Failure
+        url: /benchmark-drift/
+      - title: Gaming Rules
+        title_full: How AI Wins by Breaking the Spirit | Proxy Failure
+        url: /gaming-rules/
+      - title: Reward Hacking
+        title_full: When Optimising the Reward Makes Answers Worse | Proxy Failure
+        url: /reward-hacking-250399/
+    - title: Reward Hacking
+      title_full: How AI Can Win Without Doing the Task | Misalignment
+      url: /reward-hacking/
+      children:
+      - title: Clever or Cheating
+        title_full: Is the AI Being Clever or Gaming the Rules? | Reward Hacking
+        url: /clever-or-cheating/
+      - title: Hidden Test Gaps
+        title_full: Can Passing Tests Still Mean the Code Is Wrong? | Reward Hacking
+        url: /hidden-test-gaps/
+      - title: Test Tampering
+        title_full: When AI Changes the Test Instead of the Code | Reward Hacking
+        url: /test-tampering/
+    - title: Wrong Learned Goal
+      title_full: Why Correct Training Can Teach the Wrong Goal | Misalignment
+      url: /wrong-learned-goal/
+      children:
+      - title: Anti Expert Test
+        title_full: When Following the Expert Became the Wrong Goal | Wrong Learned Goal
+        url: /anti-expert-test/
+      - title: Goal Stress Tests
+        title_full: Can Stress Tests Reveal What an AI Really Wants? | Wrong Learned Goal
+        url: /goal-stress-tests/
+      - title: More Data Trap
+        title_full: Why More Data May Strengthen the Wrong Goal | Wrong Learned Goal
+        url: /more-data-trap/
+  - title: P Doom
+    title_full: Can Anyone Meaningfully Estimate the Chance of AI Doom?
+    url: /p-doom/
+    children:
+    - title: Conditional Risk
+      title_full: Are We Estimating Doom From Today or After AGI? | P Doom
+      url: /conditional-risk/
+      children:
+      - title: Expert Surveys
+        title_full: What Does a 5% AI Extinction Estimate Mean? | Conditional Risk
+        url: /expert-surveys/
+      - title: Risk Levers
+        title_full: Which AI Safety Measures Change Which Risk? | Conditional Risk
+        url: /risk-levers/
+      - title: Risk Maths
+        title_full: Why the Same p(doom) Can Mean Opposite Things | Conditional Risk
+        url: /risk-maths/
+    - title: Mean vs Median
+      title_full: What the Average p(doom) Number Hides
+      url: /mean-vs-median/
+      children:
+      - title: 2023 Survey
+        title_full: What the 2023 p(doom) Survey Really Shows | Mean vs Median
+        url: /2023-survey-027fe4/
+      - title: Headline Trap
+        title_full: Can One p(doom) Number Hide Expert Disagreement? | Mean vs Median
+        url: /headline-trap/
+      - title: High End Tail
+        title_full: Why a Few High Estimates Change the Mean | Mean vs Median
+        url: /high-end-tail/
+    - title: Question Wording
+      title_full: Why AI Doom Odds Change With the Question | P Doom
+      url: /question-wording/
+      children:
+      - title: Defining Doom
+        title_full: Does p(doom) Mean Extinction or Lost Control? | Question Wording
+        url: /defining-doom/
+      - title: Loss of Control
+        title_full: Why Does Loss of Control Wording Raise p(doom)? | Question Wording
+        url: /loss-of-control-75949d/
+      - title: Time Horizons
+        title_full: How Much AI Doom Risk Lies Within 100 Years? | Question Wording
+        url: /time-horizons/
+    - title: Survey Limits
+      title_full: Do Expert Surveys Really Measure AI Extinction Risk? | P Doom
+      url: /survey-limits/
+      children:
+      - title: 2023 Survey
+        title_full: What Did the Biggest AI Doom Survey Find? | Survey Limits
+        url: /2023-survey/
+      - title: Question Wording
+        title_full: Why Do AI Doom Survey Numbers Change? | Survey Limits
+        url: /question-wording-16c01c/
+      - title: Survey Bias
+        title_full: Are AI Doom Surveys Biased Toward Worried Experts? | Survey Limits
+        url: /survey-bias/
+  - title: Scheming Tests
+    title_full: Are AI Scheming Experiments Evidence of Doom? | AI Doom
+    url: /scheming-tests/
+    children:
+    - title: Performative Scheming
+      title_full: Is AI Scheming Sometimes Just Playing a Role? | Scheming Tests
+      url: /performative-scheming/
+      children:
+      - title: Goal Persistence
+        title_full: Would a Hidden AI Goal Survive New Contexts? | Performative Scheming
+        url: /goal-persistence/
+      - title: Interpretability
+        title_full: Can We See Whether an AI Really Schemes? | Performative Scheming
+        url: /interpretability/
+      - title: Sycophancy
+        title_full: Is AI Scheming Just Extreme Sycophancy? | Performative Scheming
+        url: /sycophancy/
+    - title: Persistent Lying
+      title_full: What Does It Mean When an AI Keeps Lying? | Scheming Tests
+      url: /persistent-lying/
+      children:
+      - title: Doubling Down
+        title_full: Why AI Models Keep Lying After Acting | Persistent Lying
+        url: /doubling-down/
+      - title: Limits of Tests
+        title_full: Do Scheming Tests Prove Hidden AI Goals? | Persistent Lying
+        url: /limits-of-tests/
+      - title: Trusting Reports
+        title_full: Can We Trust an AI's Story Afterwards? | Persistent Lying
+        url: /trusting-reports/
+    - title: Sabotage Reliability
+      title_full: Can Today's AI Pull Off Stealthy Sabotage? | Scheming Tests
+      url: /sabotage-reliability/
+      children:
+      - title: Data Sabotage
+        title_full: Why Poisoned Training Data Can Escape Review | Sabotage Reliability
+        url: /data-sabotage/
+      - title: Layered Monitoring
+        title_full: Can Layered Review Stop Hidden AI Sabotage? | Sabotage Reliability
+        url: /layered-monitoring/
+      - title: Long Task Limits
+        title_full: Why AI Sabotage Breaks Down Over Time | Sabotage Reliability
+        url: /long-task-limits/
+    - title: Toy Tests
+      title_full: Do Toy Scheming Tests Predict Real AI Behaviour?
+      url: /toy-tests/
+      children:
+      - title: Capability Gap
+        title_full: Can a Model Scheme Without Wanting To? | Toy Tests
+        url: /capability-gap/
+      - title: Goal Prompts
+        title_full: Do Scheming Tests Make Deception Too Easy? | Toy Tests
+        url: /goal-prompts/
+      - title: Realistic Tests
+        title_full: What Happens When Scheming Tests Look Real? | Toy Tests
+        url: /realistic-tests/
