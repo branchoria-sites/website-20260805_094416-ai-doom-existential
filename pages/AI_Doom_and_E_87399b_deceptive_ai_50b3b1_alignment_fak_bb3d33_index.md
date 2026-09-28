@@ -4,7 +4,7 @@ title_full: Alignment Faking Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-deceptive-ai/
+permalink: /ai-doom-and-e-87399b-deceptive-ai-bb3d33/
 description: Focused pages that expand on Alignment Faking.
 date: '2026'
 layout: default

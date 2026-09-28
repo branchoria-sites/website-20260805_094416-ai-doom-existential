@@ -4,7 +4,7 @@ title_full: State Rivalry Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-ai-racing-dyn/
+permalink: /ai-doom-and-e-87399b-ai-racing-dyn-b1c42f/
 description: Focused pages that expand on State Rivalry.
 date: '2026'
 layout: default

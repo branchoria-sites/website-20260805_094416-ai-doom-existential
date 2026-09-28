@@ -4,7 +4,7 @@ title_full: Tool Access Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-ai-loss-of-co/
+permalink: /ai-doom-and-e-87399b-ai-loss-of-co-e16f15/
 description: Focused pages that expand on Tool Access.
 date: '2026'
 layout: default

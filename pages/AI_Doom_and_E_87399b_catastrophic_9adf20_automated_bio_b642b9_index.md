@@ -4,7 +4,7 @@ title_full: Automated Labs Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-catastrophic/
+permalink: /ai-doom-and-e-87399b-catastrophic-b642b9/
 description: Focused pages that expand on Automated Labs.
 date: '2026'
 layout: default

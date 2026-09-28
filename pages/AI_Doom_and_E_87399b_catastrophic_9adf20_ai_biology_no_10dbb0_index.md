@@ -4,7 +4,7 @@ title_full: Bio Uplift Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-catastrophic/
+permalink: /ai-doom-and-e-87399b-catastrophic-10dbb0/
 description: Focused pages that expand on Bio Uplift.
 date: '2026'
 layout: default

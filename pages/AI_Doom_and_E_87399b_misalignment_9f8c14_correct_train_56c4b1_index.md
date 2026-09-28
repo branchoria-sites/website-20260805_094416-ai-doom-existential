@@ -4,7 +4,7 @@ title_full: Wrong Learned Goal Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-misalignment/
+permalink: /ai-doom-and-e-87399b-misalignment-56c4b1/
 description: Focused pages that expand on Wrong Learned Goal.
 date: '2026'
 layout: default

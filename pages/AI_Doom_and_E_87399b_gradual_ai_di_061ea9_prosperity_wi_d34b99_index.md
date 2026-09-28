@@ -4,7 +4,7 @@ title_full: Power Without Work Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-gradual-ai-di/
+permalink: /ai-doom-and-e-87399b-gradual-ai-di-d34b99/
 description: Focused pages that expand on Power Without Work.
 date: '2026'
 layout: default

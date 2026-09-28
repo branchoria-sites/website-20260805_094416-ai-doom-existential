@@ -4,7 +4,7 @@ title_full: Reward Hacking Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-misalignment/
+permalink: /ai-doom-and-e-87399b-misalignment-cdc533/
 description: Focused pages that expand on Reward Hacking.
 date: '2026'
 layout: default

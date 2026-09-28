@@ -4,7 +4,7 @@ title_full: Toy Tests Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-ai-scheming-e/
+permalink: /ai-doom-and-e-87399b-ai-scheming-e-a8ec4d/
 description: Focused pages that expand on Toy Tests.
 date: '2026'
 layout: default

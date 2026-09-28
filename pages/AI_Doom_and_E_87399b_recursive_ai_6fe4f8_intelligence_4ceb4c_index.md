@@ -4,7 +4,7 @@ title_full: Hard Bottlenecks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-recursive-ai/
+permalink: /ai-doom-and-e-87399b-recursive-ai-4ceb4c/
 description: Focused pages that expand on Hard Bottlenecks.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Question Wording Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-pdoom-ai-fore/
+permalink: /ai-doom-and-e-87399b-pdoom-ai-fore-fb1f83/
 description: Focused pages that expand on Question Wording.
 date: '2026'
 layout: default

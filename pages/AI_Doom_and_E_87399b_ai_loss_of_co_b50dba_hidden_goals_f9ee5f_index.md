@@ -4,7 +4,7 @@ title_full: Hidden Goals Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-ai-loss-of-co/
+permalink: /ai-doom-and-e-87399b-ai-loss-of-co-f9ee5f/
 description: Focused pages that expand on Hidden Goals.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Automation Race Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-gradual-ai-di/
+permalink: /ai-doom-and-e-87399b-gradual-ai-di-f3e2d4/
 description: Focused pages that expand on Automation Race.
 date: '2026'
 layout: default

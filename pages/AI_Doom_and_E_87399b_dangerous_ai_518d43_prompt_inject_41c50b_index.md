@@ -4,7 +4,7 @@ title_full: Memory Attacks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-dangerous-ai/
+permalink: /ai-doom-and-e-87399b-dangerous-ai-41c50b/
 description: Focused pages that expand on Memory Attacks.
 date: '2026'
 layout: default

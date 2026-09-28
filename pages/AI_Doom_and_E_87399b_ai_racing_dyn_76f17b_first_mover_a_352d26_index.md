@@ -4,7 +4,7 @@ title_full: First Mover Race Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-ai-racing-dyn/
+permalink: /ai-doom-and-e-87399b-ai-racing-dyn-352d26/
 description: Focused pages that expand on First Mover Race.
 date: '2026'
 layout: default

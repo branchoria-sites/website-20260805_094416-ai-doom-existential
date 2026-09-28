@@ -4,7 +4,7 @@ title_full: Rubber Stamp Oversight Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-gradual-ai-di/
+permalink: /ai-doom-and-e-87399b-gradual-ai-di-80847e/
 description: Focused pages that expand on Rubber Stamp Oversight.
 date: '2026'
 layout: default

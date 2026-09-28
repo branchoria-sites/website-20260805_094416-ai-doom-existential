@@ -4,7 +4,7 @@ title_full: Conditional Risk Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-pdoom-ai-fore/
+permalink: /ai-doom-and-e-87399b-pdoom-ai-fore-b39b43/
 description: Focused pages that expand on Conditional Risk.
 date: '2026'
 layout: default

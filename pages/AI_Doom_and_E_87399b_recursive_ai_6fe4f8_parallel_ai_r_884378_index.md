@@ -4,7 +4,7 @@ title_full: Parallel Researchers Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-recursive-ai/
+permalink: /ai-doom-and-e-87399b-recursive-ai-884378/
 description: Focused pages that expand on Parallel Researchers.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Nuclear Crises Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-catastrophic/
+permalink: /ai-doom-and-e-87399b-catastrophic-7bf49a/
 description: Focused pages that expand on Nuclear Crises.
 date: '2026'
 layout: default

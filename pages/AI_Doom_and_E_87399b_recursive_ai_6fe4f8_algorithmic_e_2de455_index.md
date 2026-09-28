@@ -4,7 +4,7 @@ title_full: Algorithmic Gains Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-recursive-ai/
+permalink: /ai-doom-and-e-87399b-recursive-ai-2de455/
 description: Focused pages that expand on Algorithmic Gains.
 date: '2026'
 layout: default

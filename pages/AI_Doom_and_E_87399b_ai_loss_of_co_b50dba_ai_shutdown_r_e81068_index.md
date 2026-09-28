@@ -4,7 +4,7 @@ title_full: Shutdown Risk Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-ai-loss-of-co/
+permalink: /ai-doom-and-e-87399b-ai-loss-of-co-e81068/
 description: Focused pages that expand on Shutdown Risk.
 date: '2026'
 layout: default

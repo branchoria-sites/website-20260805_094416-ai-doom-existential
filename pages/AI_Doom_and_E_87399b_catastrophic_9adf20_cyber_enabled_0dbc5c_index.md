@@ -4,7 +4,7 @@ title_full: Cyber Enablers Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-catastrophic/
+permalink: /ai-doom-and-e-87399b-catastrophic-0dbc5c/
 description: Focused pages that expand on Cyber Enablers.
 date: '2026'
 layout: default

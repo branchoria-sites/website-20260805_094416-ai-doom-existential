@@ -4,7 +4,7 @@ title_full: Hidden Goal Audits Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-doom-and-e-87399b-deceptive-ai/
+permalink: /ai-doom-and-e-87399b-deceptive-ai-cf24e2/
 description: Focused pages that expand on Hidden Goal Audits.
 date: '2026'
 layout: default
