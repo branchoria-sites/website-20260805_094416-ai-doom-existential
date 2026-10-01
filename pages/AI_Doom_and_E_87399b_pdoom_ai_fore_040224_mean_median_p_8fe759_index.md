@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-pdoom-ai-fore-8fe759/
 description: Focused pages that expand on Mean vs Median.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_pdoom_ai_fore_040224_mean_median_p_8fe759
 parent_title: Mean vs Median

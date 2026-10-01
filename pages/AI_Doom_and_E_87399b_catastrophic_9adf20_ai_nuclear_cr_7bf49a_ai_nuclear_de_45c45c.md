@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 04:45:16'
+last_modified_at: '2026-08-01 04:45:16'
 parent_title: Could AI Push a Nuclear Crisis Too Far? | Catastrophic Misuse
 parent_permalink: /nuclear-crises/
 parent_nav_short_title: Nuclear Crises

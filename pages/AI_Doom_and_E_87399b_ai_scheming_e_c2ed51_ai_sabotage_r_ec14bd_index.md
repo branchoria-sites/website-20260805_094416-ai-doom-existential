@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-scheming-e-ec14bd/
 description: Focused pages that expand on Sabotage Reliability.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_ai_sabotage_r_ec14bd
 parent_title: Sabotage Reliability | Scheming Tests

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-misalignment/
 description: Focused pages that expand on Misalignment.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_misalignment_9f8c14
 parent_title: Misalignment | AI Doom and Existential Risk from Advanced AI Syst

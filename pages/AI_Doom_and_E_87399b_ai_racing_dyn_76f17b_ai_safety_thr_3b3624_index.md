@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-racing-dyn-3b3624/
 description: Focused pages that expand on Safety Thresholds.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_ai_safety_thr_3b3624
 parent_title: Safety Thresholds | AI Race

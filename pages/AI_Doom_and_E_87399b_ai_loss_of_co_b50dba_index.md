@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-loss-of-co/
 description: Focused pages that expand on Loss of Control.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_loss_of_co_b50dba
 parent_title: Loss of Control | AI Doom and Existential Risk from Advanced AI Syst

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 02:58:04'
+last_modified_at: '2026-08-01 02:58:04'
 parent_title: How Long Can AI Really Work Alone? | Dangerous Autonomy
 parent_permalink: /task-horizons/
 parent_nav_short_title: Task Horizons

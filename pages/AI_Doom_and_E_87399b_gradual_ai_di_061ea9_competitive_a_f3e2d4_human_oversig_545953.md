@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 05:11:45'
+last_modified_at: '2026-08-01 05:11:45'
 parent_title: Could Competition Make Human Control Too Expensive? | Disempowerment
 parent_permalink: /automation-race/
 parent_nav_short_title: Automation Race

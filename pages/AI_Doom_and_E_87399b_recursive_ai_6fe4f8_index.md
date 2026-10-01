@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-recursive-ai/
 description: Focused pages that expand on Intelligence Explosion.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_recursive_ai_6fe4f8
 parent_title: Intelligence Explosion | AI Doom and Existential Risk from Advanced

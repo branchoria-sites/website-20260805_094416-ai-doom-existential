@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-scheming-e-9110ab/
 description: Focused pages that expand on Performative Scheming.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_scheming_e_c2ed51_performative_9110ab
 parent_title: Performative Scheming | Scheming Tests

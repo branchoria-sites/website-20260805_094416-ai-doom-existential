@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-racing-dyn-352d26/
 description: Focused pages that expand on First Mover Race.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_first_mover_a_352d26
 parent_title: First Mover Race | AI Race

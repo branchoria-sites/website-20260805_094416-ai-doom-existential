@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 01:42:03'
+last_modified_at: '2026-08-01 01:42:03'
 parent_title: Could an AI Pretend to Be Safe? | AI Doom and Existential Risk from Advanced AI Syst
 parent_permalink: /ai-deception/
 parent_nav_short_title: AI Deception

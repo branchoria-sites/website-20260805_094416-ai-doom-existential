@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 00:49:44'
+last_modified_at: '2026-08-01 00:49:44'
 parent_title: How Could AI Competently Pursue the Wrong Goal? | AI Doom and Existential Risk from Advanced AI Syst
 parent_permalink: /misalignment/
 parent_nav_short_title: Misalignment

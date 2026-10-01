@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ai-bb3d33/
 description: Focused pages that expand on Alignment Faking.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ai_50b3b1_alignment_fak_bb3d33
 parent_title: Alignment Faking | AI Deception
