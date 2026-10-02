@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-racing-dyn-0c3a6c/
 description: Focused pages that expand on Open Weights.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_racing_dyn_76f17b_open_weight_r_0c3a6c
 parent_title: Open Weights | AI Race

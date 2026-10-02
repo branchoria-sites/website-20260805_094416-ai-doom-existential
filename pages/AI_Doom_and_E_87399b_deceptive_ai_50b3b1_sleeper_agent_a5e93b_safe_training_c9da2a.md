@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 01:41:57'
+last_modified_at: '2026-08-01 01:41:57'
 parent_title: Can Safety Training Remove a Sleeper Agent? | AI Deception
 parent_permalink: /sleeper-agents/
 parent_nav_short_title: Sleeper Agents

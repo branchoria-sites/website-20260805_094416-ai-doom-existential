@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ai-cf24e2/
 description: Focused pages that expand on Hidden Goal Audits.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ai_50b3b1_hidden_object_cf24e2
 parent_title: Hidden Goal Audits | AI Deception

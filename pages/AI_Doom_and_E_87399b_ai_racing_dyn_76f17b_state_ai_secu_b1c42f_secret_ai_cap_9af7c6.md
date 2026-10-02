@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 06:06:35'
+last_modified_at: '2026-08-01 06:06:35'
 parent_title: Why Governments May Treat AI Restraint as Defeat | AI Race
 parent_permalink: /state-rivalry/
 parent_nav_short_title: State Rivalry

@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 06:06:27'
+last_modified_at: '2026-08-01 06:06:27'
 parent_title: Why Might an AI Race Make Doom More Likely? | AI Doom and Existential Risk from Advanced AI Syst
 parent_permalink: /ai-race/
 parent_nav_short_title: AI Race

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-misalignment-cdc533/
 description: Focused pages that expand on Reward Hacking.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_misalignment_9f8c14_reward_hackin_cdc533
 parent_title: Reward Hacking | Misalignment

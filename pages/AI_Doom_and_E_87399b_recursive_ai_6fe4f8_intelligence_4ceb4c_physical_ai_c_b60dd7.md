@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 03:49:16'
+last_modified_at: '2026-08-01 03:49:16'
 parent_title: Could Real World Bottlenecks Halt an Intelligence Explosion?
 parent_permalink: /hard-bottlenecks/
 parent_nav_short_title: Hard Bottlenecks

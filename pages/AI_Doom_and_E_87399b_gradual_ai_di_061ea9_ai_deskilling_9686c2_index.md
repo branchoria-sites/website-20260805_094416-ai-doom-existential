@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-gradual-ai-di-9686c2/
 description: Focused pages that expand on AI Deskilling.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_gradual_ai_di_061ea9_ai_deskilling_9686c2
 parent_title: AI Deskilling | Disempowerment

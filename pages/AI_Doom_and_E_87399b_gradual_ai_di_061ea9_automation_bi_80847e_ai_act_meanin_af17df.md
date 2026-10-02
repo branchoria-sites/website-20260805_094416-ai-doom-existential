@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 05:38:46'
+last_modified_at: '2026-08-01 05:38:46'
 parent_title: When Does Human Oversight Become a Rubber Stamp? | Disempowerment
 parent_permalink: /rubber-stamp-oversight/
 parent_nav_short_title: Rubber Stamp Oversight

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 01:42:02'
+last_modified_at: '2026-08-01 01:42:02'
 parent_title: Can We Catch an AI Hiding Its Goal? | AI Deception
 parent_permalink: /hidden-goal-audits/
 parent_nav_short_title: Hidden Goal Audits

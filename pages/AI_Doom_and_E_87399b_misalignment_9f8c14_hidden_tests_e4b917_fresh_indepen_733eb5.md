@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 01:16:47'
+last_modified_at: '2026-08-01 01:16:47'
 parent_title: Can Hidden Tests Catch AI Gaming Fairly? | Misalignment
 parent_permalink: /hidden-tests/
 parent_nav_short_title: Hidden Tests

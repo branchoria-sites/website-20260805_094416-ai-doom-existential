@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 05:38:36'
+last_modified_at: '2026-08-01 05:38:36'
 parent_title: What Happens When Humans Forget How to Override AI? | Disempowerment
 parent_permalink: /ai-deskilling/
 parent_nav_short_title: AI Deskilling

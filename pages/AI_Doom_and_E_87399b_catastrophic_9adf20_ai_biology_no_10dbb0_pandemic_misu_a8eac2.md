@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 04:17:58'
+last_modified_at: '2026-08-01 04:17:58'
 parent_title: Can AI Turn Novices Into Bioweapon Developers? | Catastrophic Misuse
 parent_permalink: /bio-uplift/
 parent_nav_short_title: Bio Uplift

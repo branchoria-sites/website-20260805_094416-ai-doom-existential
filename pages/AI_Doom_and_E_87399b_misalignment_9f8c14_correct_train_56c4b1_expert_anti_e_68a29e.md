@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 00:49:48'
+last_modified_at: '2026-08-01 00:49:48'
 parent_title: Why Correct Training Can Teach the Wrong Goal | Misalignment
 parent_permalink: /wrong-learned-goal/
 parent_nav_short_title: Wrong Learned Goal

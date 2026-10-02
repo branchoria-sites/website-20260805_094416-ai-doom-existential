@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-pdoom-ai-fore-fb1f83/
 description: Focused pages that expand on Question Wording.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_pdoom_ai_fore_040224_survey_wordin_fb1f83
 parent_title: Question Wording | P Doom

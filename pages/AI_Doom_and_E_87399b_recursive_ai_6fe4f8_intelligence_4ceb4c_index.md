@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-recursive-ai-4ceb4c/
 description: Focused pages that expand on Hard Bottlenecks.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_recursive_ai_6fe4f8_intelligence_4ceb4c
 parent_title: Hard Bottlenecks

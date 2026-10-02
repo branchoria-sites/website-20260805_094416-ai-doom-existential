@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-dangerous-ai-41c50b/
 description: Focused pages that expand on Memory Attacks.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_dangerous_ai_518d43_prompt_inject_41c50b
 parent_title: Memory Attacks | Dangerous Autonomy
