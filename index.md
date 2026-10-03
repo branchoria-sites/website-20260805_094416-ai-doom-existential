@@ -3857,6 +3857,93 @@ site_image_description: A human operator stands before a vast control room where
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books behind the reports on this site — superintelligence, alignment, and the challenge of keeping advanced AI safe. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+    </h4>
+    <p class="fr-book-author">By Stuart Russell</p>
+        
+    <p class="fr-book-desc">A leading artificial intelligence researcher lays out a new approach to AI that will enable us to coexist successfully with increasingly...</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+    </h4>
+    <p class="fr-book-author">By Brian Christian</p>
+        
+    <p class="fr-book-desc">Finalist for the Los Angeles Times Book Prize A jaw-dropping exploration of everything that goes wrong when we build AI systems and the m...</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+    </h4>
+    <p class="fr-book-author">By Nick Bostrom</p>
+        
+    <p class="fr-book-desc">This profoundly ambitious and original book picks its way carefully through a vast tract of forbiddingly difficult intellectual terrain.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+    </h4>
+    <p class="fr-book-author">By Max Tegmark</p>
+        
+    <p class="fr-book-desc">&#x27;This is the most important conversation of our time, and Tegmark&#x27;s thought-provoking book will help you join it&#x27; Stephen Hawking THE INT...</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=superintelligence+existential+risk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence &amp; risk</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+alignment+and+safety&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI alignment &amp; safety</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=artificial+intelligence+future+society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI &amp; future society</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
 </div>
 </section>
 
