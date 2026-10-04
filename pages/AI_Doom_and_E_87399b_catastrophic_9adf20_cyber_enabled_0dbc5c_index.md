@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-catastrophic-0dbc5c/
 description: Focused pages that expand on Cyber Enablers.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_catastrophic_9adf20_cyber_enabled_0dbc5c
 parent_title: Cyber Enablers | Catastrophic Misuse

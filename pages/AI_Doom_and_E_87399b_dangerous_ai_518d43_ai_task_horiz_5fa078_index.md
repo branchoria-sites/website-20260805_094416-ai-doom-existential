@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-dangerous-ai-5fa078/
 description: Focused pages that expand on Task Horizons.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_dangerous_ai_518d43_ai_task_horiz_5fa078
 parent_title: Task Horizons | Dangerous Autonomy

@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-dangerous-ai-580143/
 description: Focused pages that expand on AI Replication.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_dangerous_ai_518d43_self_sustaini_580143
 parent_title: AI Replication | Dangerous Autonomy

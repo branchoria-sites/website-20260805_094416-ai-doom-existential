@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-catastrophic-b642b9/
 description: Focused pages that expand on Automated Labs.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_catastrophic_9adf20_automated_bio_b642b9
 parent_title: Automated Labs | Catastrophic Misuse
