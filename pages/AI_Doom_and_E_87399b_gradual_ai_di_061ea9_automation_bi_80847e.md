@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 05:38:44'
+last_modified_at: '2026-08-01 05:38:44'
 parent_title: Could Humanity Lose Control Without an AI Coup? | AI Doom and Existential Risk from Advanced AI Syst
 parent_permalink: /disempowerment/
 parent_nav_short_title: Disempowerment

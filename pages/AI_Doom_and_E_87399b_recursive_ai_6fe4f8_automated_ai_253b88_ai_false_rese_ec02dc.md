@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 03:49:06'
+last_modified_at: '2026-08-01 03:49:06'
 parent_title: Can AI Really Automate the Whole Research Cycle? | Intelligence Explosion
 parent_permalink: /full-research-loop/
 parent_nav_short_title: Full Research Loop

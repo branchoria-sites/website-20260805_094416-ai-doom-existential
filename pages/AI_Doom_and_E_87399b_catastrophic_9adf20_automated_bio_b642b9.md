@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 04:45:02'
+last_modified_at: '2026-08-01 04:45:02'
 parent_title: Could People Use AI to Cause Extinction? | AI Doom
 parent_permalink: /catastrophic-misuse/
 parent_nav_short_title: Catastrophic Misuse

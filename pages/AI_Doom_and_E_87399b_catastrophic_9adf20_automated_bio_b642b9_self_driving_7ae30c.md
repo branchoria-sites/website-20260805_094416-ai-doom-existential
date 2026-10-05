@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 04:45:06'
+last_modified_at: '2026-08-01 04:45:06'
 parent_title: Could AI Run a Dangerous Biology Lab? | Catastrophic Misuse
 parent_permalink: /automated-labs/
 parent_nav_short_title: Automated Labs

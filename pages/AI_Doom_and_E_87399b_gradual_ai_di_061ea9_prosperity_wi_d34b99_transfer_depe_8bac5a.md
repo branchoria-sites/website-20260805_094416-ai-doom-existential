@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 05:11:47'
+last_modified_at: '2026-08-01 05:11:47'
 parent_title: Can People Stay Rich Yet Lose Economic Control? | Disempowerment
 parent_permalink: /power-without-work/
 parent_nav_short_title: Power Without Work

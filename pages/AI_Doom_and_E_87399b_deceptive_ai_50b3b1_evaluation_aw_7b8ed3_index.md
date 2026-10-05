@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ai-7b8ed3/
 description: Focused pages that expand on Evaluation Awareness.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ai_50b3b1_evaluation_aw_7b8ed3
 parent_title: Evaluation Awareness | AI Deception

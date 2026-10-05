@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-racing-dyn/
 description: Focused pages that expand on AI Race.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_racing_dyn_76f17b
 parent_title: AI Race | AI Doom and Existential Risk from Advanced AI Syst

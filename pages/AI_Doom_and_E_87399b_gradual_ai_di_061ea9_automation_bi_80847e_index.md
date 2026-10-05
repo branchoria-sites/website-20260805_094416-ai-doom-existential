@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-gradual-ai-di-80847e/
 description: Focused pages that expand on Rubber Stamp Oversight.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_gradual_ai_di_061ea9_automation_bi_80847e
 parent_title: Rubber Stamp Oversight | Disempowerment

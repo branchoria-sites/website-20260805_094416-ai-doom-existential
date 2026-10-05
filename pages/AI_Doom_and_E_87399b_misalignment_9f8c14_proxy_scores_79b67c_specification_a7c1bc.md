@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 00:49:40'
+last_modified_at: '2026-08-01 00:49:40'
 parent_title: When Higher AI Scores Hide Worse Results | Misalignment
 parent_permalink: /proxy-failure/
 parent_nav_short_title: Proxy Failure

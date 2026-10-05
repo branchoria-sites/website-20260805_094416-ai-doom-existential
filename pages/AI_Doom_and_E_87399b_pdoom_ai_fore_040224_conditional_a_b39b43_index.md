@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-pdoom-ai-fore-b39b43/
 description: Focused pages that expand on Conditional Risk.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_pdoom_ai_fore_040224_conditional_a_b39b43
 parent_title: Conditional Risk | P Doom
