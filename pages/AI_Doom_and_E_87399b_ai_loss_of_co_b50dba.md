@@ -1247,7 +1247,6 @@ The most defensible conclusion is therefore conditional. No present system can e
 75.<a id="endnote-75"></a>
    Source: alignment.anthropic.com  
    Title: automated researchers sandbag  
-   Link:https://alignment.anthropic.com/2026/2024/how-to-alignment-faking/2026/hot-mess-of-ai/2025/openai-findings/2026/petri-v2/2025/automated-researchers-sandbag/  
 
 76.<a id="endnote-76"></a>
    Source: anthropic.com  
