@@ -1200,7 +1200,7 @@ The present evidence sits between those possibilities. Scheming tests have uncov
 64.<a id="endnote-64"></a>
    Source: alignment.anthropic.com  
    Title: alignment faking revisited  
-   Link:<a href="https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/</a>  
+   Link:https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/  
 
 65.<a id="endnote-65"></a>
    Source: www-cdn.anthropic.com  

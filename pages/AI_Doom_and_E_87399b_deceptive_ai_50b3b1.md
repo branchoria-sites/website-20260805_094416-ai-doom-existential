@@ -1244,7 +1244,7 @@ The case for concern is therefore prospective. As systems gain better planning, 
 79.<a id="endnote-79"></a>
    Source: alignment.anthropic.com  
    Title: alignment faking revisited  
-   Link:<a href="https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/</a>  
+   Link:https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/  
 
 80.<a id="endnote-80"></a>
    Source: www-cdn.anthropic.com  

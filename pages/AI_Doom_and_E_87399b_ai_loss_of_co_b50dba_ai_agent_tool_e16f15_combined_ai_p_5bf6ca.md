@@ -1009,4 +1009,4 @@ Whether this progression ultimately leads to genuine loss-of-control scenarios r
 28.<a id="endnote-28"></a>
    Source: paperswithcode.com  
    Title: Misalignment or misuse? The AGI alignment tradeoff | Papers With Code  
-   Link:<a href="https://paperswithcode.com/paper/misalignment-or-misuse-the-agi-alignment" target="_blank" rel="noopener noreferrer nofollow">https://paperswithcode.com/paper/misalignment-or-misuse-the-agi-alignment</a>  
+   Link:https://paperswithcode.com/paper/misalignment-or-misuse-the-agi-alignment  

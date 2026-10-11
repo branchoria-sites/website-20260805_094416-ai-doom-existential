@@ -1211,7 +1211,7 @@ The reasonable conclusion is not a single p(doom figure. It is that existential 
 67.<a id="endnote-67"></a>
    Source: alignment.anthropic.com  
    Title: alignment faking revisited  
-   Link:<a href="https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/</a>  
+   Link:https://alignment.anthropic.com/2024/2025/alignment-faking-revisited/  
 
 68.<a id="endnote-68"></a>
    Source: alignment.anthropic.com  
